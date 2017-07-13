@@ -3,7 +3,7 @@ title: Abdullah Şahin
 description:
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://abdullah.gtihub.io" # the base hostname & protocol for your site
+url: "abdullah.gtihub.io" # the base hostname & protocol for your site
 
 author:
   fullname: Abdullah Şahin
