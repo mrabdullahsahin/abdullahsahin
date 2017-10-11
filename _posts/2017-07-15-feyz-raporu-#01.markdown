@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Feyz Raporu #01"
+subtitle: "Feel home!"
+date:   2017-07-13 18:32:33
+comments: true
+categories: [feyz-raporu]
+---
+Feyz Raporunun ilk bölümünde feyz biraz yüksek olacak. Umarım bu rapor ile sizlere faydalı olabilirim. Feyzli içeriklerden bahsetmeden önce kısaca neler neler üzerinde çalıştığımdan bahsetmek istiyorum.
+
+Blok Zinciri(blockchain) teknolojisini araştırdım. Hatta Github üzerinde güzel bir proje ile geliştiricilerden biri bu teknolojiyi güzel bir şekilde açıklamış üstelik youtube'da videosuda mevcut.
+
+Peki bu blog'da neler olacak. Kısaca bundan bahsedelim.
+
+**1)Feyzli Yazılar**
+
++ [Open Source Swift Apps](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e): Swift ile geliştirilmiş açık kaynak kodlu uygulamalar yer almaktadır. Uygulamalar içerisinde tamamen kod aracılığı ile yapılanlar olduğu gibi storyboard kullanılarakta yapılanlar mevcut.
+
+Bu rapor aşağıda bulunan maddeler sağlandığı zaman yayınlanacak.
++ Beş adet yazı,
++ Beş adet web sitesi,
++ Bonus-1 olarakta github projelerinden seçmeler,
++ Bonus-2 olarakta beş adet mobil oyun/uygulama yer alacak.
+
+Bonus kısım zorunlu değil yazı ve web sitesi kısmı derlenesiye kadar ne kadar olursa.
+
+**2)Feyzli Web Siteleri**
+
++ [Dota Mania](https://dotamania.herokuapp.com/): Zihin Haritaları yöntemini kullanarak sizin için görselleştirme yaparak web sitesini kazıyor(web scrapping).
+
++ [Dimmy Club](https://dimmy.club/): Seçmiş olduğunuz cihazlar için ekran görüntüsü oluşturan site. Yani nam-ı değer **Mockup.** Sizler için mockup oluşturuyor.
+
+**3)Feyzli Github Projeleri**
+
++ [Dota Mania Github](https://github.com/sonnylazuardi/reactriot2017-dotamania): Dota Mania aracını yukarıda açıklamıştım. Bu da Github sayfası.
+
++ [Sketch Cache Cleaner](https://github.com/yo-op/sketchcachecleaner): Sketch uygulamasını bellekte kaplamış olduğu yeri temizliyor. Bellekte kapladığı yer derken öyle aklınıza 2-3 GB gibi rakamlar gelmesin 10-15 GB gibi bellek temizlemesi yapanlar mevcut. Eğer sizde Sketch kullanıyorsanız kullanmanızı tavsiye ederim yalnız _**Time Machine**_ uygulamasını veya bunun türevi uygulamaları kullanıyorsanız _**geliştiricileri kullanmamanızı tavsiye ediyorlar.**_
+
+
+**4)Feyzli Mobil Uygulamalar/Oyunlar**

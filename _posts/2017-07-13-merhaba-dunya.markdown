@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Merhaba Dünya!"
-subtitle: "Feel home!"
+subtitle: ""
 date:   2017-07-13 18:32:33
 comments: true
 categories: [diger-yazilar]
@@ -13,9 +13,10 @@ Peki bu blog'da neler olacak. Kısaca bundan bahsedelim.
 **1)Feyz Raporu**
 
 Bu rapor aşağıda bulunan maddeler sağlandığı zaman yayınlanacak.
-+ beş adet yazı
-+ beş adet web sitesi
-+ Bonus olarakta beş adet mobil oyun/uygulama yer alacak.
++ Beş adet yazı,
++ Beş adet web sitesi,
++ Bonus-1 olarakta github projelerinden seçmeler,
++ Bonus-2 olarakta beş adet mobil oyun/uygulama yer alacak.
 
 Bonus kısım zorunlu değil yazı ve web sitesi kısmı derlenesiye kadar ne kadar olursa.
 

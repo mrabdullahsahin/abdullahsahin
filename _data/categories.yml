@@ -1,8 +1,11 @@
-- slug: design
-  name: Design
+- slug: feyz-raporu
+  name: Feyz Raporu
 
-- slug: tools
-  name: Tools
+- slug: fikrin-hayatı
+  name: Fikrin Hayatı
 
-- slug: productivity
-  name: Productivity
+- slug: algorithm-world
+  name: Algoritma Dünyası
+
+- slug: diger-yazilar
+  name: Diğer Yazılar
