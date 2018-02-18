@@ -1,17 +1,30 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
-sitemap:
-  exclude: 'yes'
+# Main scss file
 ---
 @charset "utf-8";
 
-/* =Colors */
-$dorian: #F5F5F5;
-$iron: #333333;
-$cloudy: #828282;
-
+// Helpers
 @import
-    "mixins",
-    "default",
-    "404"
-;
+    'helpers/mixins',
+    'helpers/variables';
+
+// Base
+@import
+    'base/reset';
+
+// Utilities
+@import
+    'utilities/layout',
+    'utilities/separator';
+
+// Components
+@import
+    'components/page',
+    'components/article',
+    'components/tag',
+    'components/archives';
+
+// Vendor
+@import
+    'vendor/highlight';
+
