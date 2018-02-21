@@ -8,7 +8,7 @@ comments: true
 ---
 
 ## Bilgisayar Bilimcisinin Alet Çantası
-> Son GÜncelleme: 18 Şubat 2018
+> Son GÜncelleme: 21 Şubat 2018
 
 Bilgisayar sektöründe kullanabileceğiniz ve faydalanabileceğinz bir sürü içerik ve kaynak bulunmaktadır. Bu kaynaklardan elbette ki hiç biri boş değildir fakat bazıları daha çok işinizi görür. Bende bu sektörde çalışmakta olan veya sektöre yeni girmek isteyenler için kendi kullandığım ve sizlerede faydası olabileceğini düşündüğüm kaynak ve araçlarları ayrıntılı bir şekide paylaşacağım. Eğer sizde kullandığınız ve diğer insanlara faydalı olabileceğini düşündüğünüz araçlar ve kaynaklar var ise bunları lütfen yorumlar kısmında belirtin ki hem insanlar faydalanabilsin hemde güzel bir içeriğie sahip olmuş olalım. Eğer isterseniz de github üzerinden bu yazıya katkıda bulunabilirsiniz.
 
@@ -48,13 +48,17 @@ Bilgisayar sektöründe kullanabileceğiniz ve faydalanabileceğinz bir sürü i
  - **[Trello](https://trello.com):** Yazılım proje yönetim aracıdır. Bu araçla projelerinizi burada planlayabilirsiniz ve buradan takip edebilirsiniz.
  - **[Postman](https://www.getpostman.com):** Projelerinizde yazmış olduğunuz API'yi test edebilmenizi sağlayan bir araçtır.
  - **[Codepen](https://codepen.io/):** Codepen yazılımcıların yaptıklarını yayınlayabildkleri ve diğer kişilerinde önizleme yapabilmesini sağlayan bir site. İncelemenizde fayda var.
+ - **[Asana](https://asana.com):** Trello gibi proje yönetim aracı.
+ - **[Advanced Rest Client](https://install.advancedrestclient.com/#/install):** Postman gibi rest api test aracı.
+ - **[SoapUI](https://www.soapui.org):** API testi için farklı bir araç.
+ -
 
  **NOT: Yazılım araçlarından hem github hemde bitbucket ikisinide beraber kullanmanızı tavsiye ederim. Çünkü açık kaynaklı projelerin çoğu Github'da yayınlandığı için katkıda da bulunabilirsiniz. Dünya'nın en büyük firmaları açık kaynak projelerini hep Github'da yayınlar.** **Yazılım araçlarından Github, Bitbucket, Trello ve Codepen araçlarını bir göz atmanızı tavsiye ederim. Çünkü yazılım sektöründe olupta bu araçları bilmeyen çok kişi var. Bilmemek ayıp değil, öğrenmemek ayıptır.**
 
 ----
 
 ## Text Editörler
- - **[Atom](https://atom.io):** Facebook'un geliştirmiş olduğu text tabanlı editördür. Açık kaynaklı ve içerisinde çok fazla aracı barındırmaktadır. Text editör olarak bunu tavsiye edebiliirim.
+ - **[Atom](https://atom.io):** Github'ın geliştirmiş olduğu text tabanlı editördür. Açık kaynaklı ve içerisinde çok fazla aracı barındırmaktadır. Text editör olarak bunu tavsiye edebiliirim. Ek olarak eş zamanlı başkaları ile beraber kod yazmanızada izin veriyor. [Buradan](https://teletype.atom.io) inceleyebilirsiniz.
  - **[Bracket](http://brackets.io):** Bu aracı bir süre kullandım, gayet kullanışlı ve güzel.
  - **[Sublime Text](https://www.sublimetext.com):** Uzun bir süre bu aracıda kullandım bunu da incelemenizi tavsiye ederim.
  - **[Notepad++](https://notepad-plus-plus.org):** Çok kullandığımı söyleyemeceğim ama incelemenizde fayda var.
@@ -97,6 +101,12 @@ Bilgisayar sektöründe kullanabileceğiniz ve faydalanabileceğinz bir sürü i
  - **[Tarihten 6 tavsiye: Merak, aksilik, tutku, reddedilme, ve pürüzlü mükemmellik üzerine](https://medium.com/turkce/tarihten-6-tavsiye-merak-aksilik-tutku-reddedilme-ve-p%C3%BCr%C3%BCzl%C3%BC-m%C3%BCkemmellik-%C3%BCzerine-7e85ccccf7eb):** Bir şeye başlarken bunları dikkate alın.
  - **[“Ben Artık Oldum!” Sendromu](https://medium.com/@ibrahimhizlioglu/kendini-geli%C5%9Ftirmek-i%CC%87steyen-yaz%C4%B1l%C4%B1mc%C4%B1lara-%C3%B6nerilerim-b6f8929a9b5a):** İlim ilim bilmektir, sen kendini bilmez isen bu ya nice okumaktır diyoruz ve sizi yazıya alıyoruz.
  - **[Abuzittin Framework Developer](https://medium.com/house-of-apps/abuzittin-framework-developer-8f926d04b284):** Bunu da okuyun :)
+ - **[Verimlilik 101]:** Verimli çalışmak üzerine bilimsel çalışmalar ile desteklenmiş güzel bir yazı.
+
+----
+
+## Tavsiye Videolar
+ - **[]():** Selman abinin kariyer ve linkedin üzerine uzun bir videosu. Tamamını izlemenizi tavsiye ederim gelecekte neler yapmanız konusunda ve sosyal medyayı daha iyi nasıl kullanabilirsiniz konularında sizlere fikir verebilir.
 
 ----
 
@@ -119,7 +129,12 @@ Bilgisayar sektöründe kullanabileceğiniz ve faydalanabileceğinz bir sürü i
  - **[Haftanın Özeti](https://www.dunyahalleri.com/haftanin-ozeti/):** İnternet ekipleri amiri M. Serdar Kuzuloğlu'nun teknoloji sitesi.
  - **[Webrazzi](https://webrazzi.com/):** Teknoloji dünyasını yakından takip edebileceğiniz site.
  - **[Product Hunt](https://www.producthunt.com/):** Kişilerin veya geliştiricilerin ürün paylaşabilmesini sağlayan kaliteli bir site.
+ - **[Medium](https://medium.com):** Herkesin yazılarını yayınlayabilmelerini sağlayan platform. Sağlam içerikler mevcut incelemenizi tavsiye ederim.
+ - **[Ted](https://www.ted.com):** Bilimsel ve yüksek derecede feyiz içeren bir site incelemeden geçmeyin.
 
 ----
+
+## Medium Kaynakları
+ - **[NSIstanbul](https://medium.com/nsistanbul):** Türkiye'de bulunan Apple geliştiricilerinin yayın yaptıkları blog.
 
 Bir sonraki yazıda görüşmek ümidiyle, hoşça kalın.
