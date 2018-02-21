@@ -101,7 +101,7 @@ Bilgisayar sektöründe kullanabileceğiniz ve faydalanabileceğinz bir sürü i
  - **[Tarihten 6 tavsiye: Merak, aksilik, tutku, reddedilme, ve pürüzlü mükemmellik üzerine](https://medium.com/turkce/tarihten-6-tavsiye-merak-aksilik-tutku-reddedilme-ve-p%C3%BCr%C3%BCzl%C3%BC-m%C3%BCkemmellik-%C3%BCzerine-7e85ccccf7eb):** Bir şeye başlarken bunları dikkate alın.
  - **[“Ben Artık Oldum!” Sendromu](https://medium.com/@ibrahimhizlioglu/kendini-geli%C5%9Ftirmek-i%CC%87steyen-yaz%C4%B1l%C4%B1mc%C4%B1lara-%C3%B6nerilerim-b6f8929a9b5a):** İlim ilim bilmektir, sen kendini bilmez isen bu ya nice okumaktır diyoruz ve sizi yazıya alıyoruz.
  - **[Abuzittin Framework Developer](https://medium.com/house-of-apps/abuzittin-framework-developer-8f926d04b284):** Bunu da okuyun :)
- - **[Verimlilik 101]:** Verimli çalışmak üzerine bilimsel çalışmalar ile desteklenmiş güzel bir yazı.
+ - **[Verimlilik 101](https://alperiskender.com/verimli-calismak-101/):** Verimli çalışmak üzerine bilimsel çalışmalar ile desteklenmiş güzel bir yazı.
 
 ----
 
