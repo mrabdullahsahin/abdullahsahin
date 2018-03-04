@@ -59,33 +59,7 @@ Bu üç maddeyi uyguladığınız zaman hem dersleri sağlam götürmüş olacak
 Ulaşım için şehir dışından gelecekseniz eğer tren, otobüs veya uçak masrafınız olacaktır. Dersler için kitaplara ve fotokopilere ihtiyacınız olacak. Arada otobüse veya dolmuşa binerseniz bunların masrafı olacaktır. Elazığ'da öğrenciye otobüs ücreti 1,25₺ isterseniz para verirsiniz sürücüye isterseniz kartı var onu tutabilirsiniz. Dolmuş ise öğrenciye 1,50₺.
 
 ##### **Yurt Masrafı**
-(Bu yurtların hemen hemen hepsinin web siteleri mevcut oradan ayrıntılı bilgi alabilir ve arayabilirsiniz.)
-
-##### **İlim Yayma Cemiyeti**
-
-Artıları:
-  - Sahip olduğu ortamı evi aratmaz.
-  - Otobüslerin kalkış noktasına 5 dakika mesafede olduğu için otobüs ile rahat bir şekilde gidip, gelebilirsiniz. Fakat bazen tıklım tıklım dolu oluyor özellikle sınav zamanı buna çok dikkat etmenizi tavsiye ederim.(Sabah derse giderkende çok dolu oluyor.)
-  - Ücretlendirme olarak bildiğim kadarıyla devletin yurtlara sağlamış olduğu yemek bursunu veriyorlar ve böylece ödemeniz gereken ücret tam bilmemek ile beraber aylık 250₺ civarında.
-
-Eksileri:
-  - Okula biraz uzak. Ortalama yürüyüş hızınıza ve kısa yolları bilmenize bağlı olarak 20 ile 45 dakika arasında değişmektedir.
-
-##### **TÜGVA Yurdu:**
-
-Artıları:
-  - Fakültenize göre değişmek ile beraber okula 15 dakika mesafede.
-
-Eksileri:
-  - Fiyat olarak biraz yüksektir. Aşağı yukarı 400₺ - 500₺ civarında. Yemek bursu imkanı gelip gelmediğini bilmemek ile beraber geldiği taktirde fiyatın yarı yarıya düşeceğini belirtmek isterim.
-
-##### **KYK Yurtları:**
-
-Artıları:
-  - KYK'lar bildiğiniz gibi çok ucuzdur. Aylık fiyatı 180₺ civarında.
-
-Eksileri:
-  - Eğer Ahmet Kabaklı yurdunda kalacaksınız şehire çok uzak mesafede derken dağın tepesinde yani farklı anlam çıkarılmasın :D. Fakat diğer yurtları Ahmet Kabaklıya nazaran şehrin içinde veya daha yakınlar.
+Yurt masrafları ortalama 180₺ ile 700₺ arasında değişmektedir.
 
 **Not: Yurtta oda arkadaşınızı beğenmez iseniz yönetime belirtip odanızı değiştirebilirsiniz. Ek olarak aynı yurtta kalacaksanız eğer sene sonunda odanızı ve arkadaşlarınızı ayarlayıp biz şu odada kalacağız diyebilirsiniz. Bunu kesin yapın sağlam bir oda oluşturun kendinize.**
 
