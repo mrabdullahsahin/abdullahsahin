@@ -6,15 +6,264 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Feb 2018 23:49:22 +0300</pubDate>
-    <lastBuildDate>Sun, 18 Feb 2018 23:49:22 +0300</lastBuildDate>
+    <pubDate>Sun, 04 Mar 2018 19:39:37 +0300</pubDate>
+    <lastBuildDate>Sun, 04 Mar 2018 19:39:37 +0300</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Yazılım Mühendisliği Okumak İsteyenlere Tavsiyeler</title>
+        <description>&lt;h2 id=&quot;yazılım-mühendisliği-okumak-İsteyenlere-tavsiyeler&quot;&gt;Yazılım Mühendisliği Okumak İsteyenlere Tavsiyeler&lt;/h2&gt;
+
+&lt;p&gt;Yazılım Mühendisliği Türkiye’de belirli devlet üniversitelerinde bulunan bir bölümdür(Özel üniversiteleri saymıyorum.). Şu anın ve geleceğin mesleği diyebilirim tabi kişi eğer bu bölüme ilgi duyuyor, seviyor ve onu heyecanlandırıyor ise. Türkiye’de bulunan devlet üniversiteleri ise; Fırat Üniversitesi (Elazığ), Celal Bayar Üniversitesi (Manisa), Karadeniz Teknik Üniversitesi (Trabzon) ve Kırklareli Üniversitesi(Kırklareli). Ben Fırat Üniversitesi son sınıf öğrencisiyim. Şu an son sınıfta olduğum için üç aylık stajdayım. Türksat’ta e-Devlet takımında iOS geliştirici olarak stajımı yapmaktayım. Fırat Üniversitesinde okuduğum için bunun üzerine ilerleyeceğim. Fırat Üniversitesinde üç türlü yazılım mühendisliği bulunmaktadır. Bunlardan birincisi normal olan, ikincisi ise ortak lisans programı adı altında yürütülen UOLP programı ve sonuncusuda mtok yani sadece meslek liselerinin girebildiği program. Şimdi bu programları tek tek inceleyip irdeleyelim benim bu süreçte elde ettiğim bilgi ve tecrübeleri sizlerle de paylaşıyım.&lt;/p&gt;
+
+&lt;h3 id=&quot;yazılım-mühendisliği-hakkında&quot;&gt;&lt;strong&gt;Yazılım Mühendisliği Hakkında&lt;/strong&gt;&lt;/h3&gt;
+&lt;h5 id=&quot;mtok-programı&quot;&gt;&lt;strong&gt;MTOK Programı&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Sadece meslek lisesi okuyanların girebildiği program. Bu programda ilk yıl hazırlık görüyorsunuz. Bu hazırlık ise matematik, fizik ve kimya’dan oluşmaktadır. İlk yıl hazırlık olduğu için çok fazla ama çok fazla zamanınızın olacağını belirtmek isterim. Meslek lisesi çıkışlı olduğunuz için projeleriniz üzerinde ve kendinizi geliştirebilmeniz adına çok fazla zamanınız olacağını bilin. Bu yüzden rehavete kapılıp oyunlara ve boş işlere takılmayın. Neler yapabileceğiniz üzerine yazının sonunda bulunan yol haritasına bir göz atın. Hazırlıktan sonra ki süreçte ise siz 1. sınıf’a yeni gelenler ile aynı sınıfta oluyorsunuz, yani normal programı kazananlarla.&lt;/p&gt;
+
+&lt;h5 id=&quot;normal-program&quot;&gt;&lt;strong&gt;Normal Program&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Normal programda iki seçeneğiniz var, birinci öğretim ve ikinci öğretim. Ben ikinci öğretim olarak okudum. Eğer ben kendime sahip olur, uyku konusunda sıkıntı yaşamam, sorumluluklarımın farkında olur ve irademe sahip çıkabilirim derseniz ikinci öğretimi yazın derim. Çünkü sadece akşam okula gideceksiniz ve akşam okulda olmanız gerekecek, gündüz tamamen sizin olacak yani bol bol çalışma imkanınız olacak. Birinci öğretimler herhangi bir ücret ödemezler, ikinci öğretimler ise bir yıl için toplamda 1,500₺ öderler. Burada bilmeniz gereken &lt;strong&gt;%10&lt;/strong&gt; dediğimiz bir durum var. O da şu oluyor, sınıfta %10’a giren kişi sadece 150₺ ödüyor diye biliyorum yanlış biliyor olabilirim bunu sorup öğrenirsiniz. Normal program bu şekilde, aşağıya birinci öğretim, ikinci öğretimin ve UOLP programlarının ders programını bırakıyorum sizler inceleyip karar verirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Ders Programları; &lt;a href=&quot;http://yaz.tek.firat.edu.tr/tr/node/506&quot;&gt;Kaynak&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;uolp-programı&quot;&gt;&lt;strong&gt;UOLP Programı&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Bu program Amerika’da Sam Houston State Üniversitesi ile ortak yürütülen bir programdır. İlk üç yıl(bir yıl ingilizce hazırlık, hazırlığı gerekli şartlar veya sınav aracılığı ile direk geçebilirsiniz.) Türkiye’de okuyorsunuz sonra kalan iki yılı Amerika’da okuyorsunuz. Mezun olunca çift diploma alıyorsunuz. Mezun olduktan sonra da bir yıl Amerika’da çalışma izniniz oluyor(OPT). Ek olarak bu bölüm Türkiye’de yıllık 4.000₺ diye biliyorum. Amerika’da da 8.000$. Amerika’ya gittiğiniz zamanda devlet 1.000$ yardım yapıyor diye biliyorum araştırabilirsiniz bunu da.&lt;/p&gt;
+
+&lt;p&gt;Ayrıntılı bilgi için buraya bakabilirsiniz; &lt;a href=&quot;http://uyaz.tek.firat.edu.tr/tr/node/131&quot;&gt;Ücretlendirme&lt;/a&gt;, &lt;a href=&quot;http://uyaz.tek.firat.edu.tr/tr/node/107&quot;&gt;Genel Bilgi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fırat Üniversitesin’de bulunan Yazılım Mühendisliği programları bu şekilde. Şimdi bu programları beraber irdeleyelim ve hangi program sonunda nerelere gidebilir ve neler yapabilirsiniz hep birlikte bakalım.&lt;/p&gt;
+
+&lt;h5 id=&quot;mtok-ve-normal-program-tavsiyelerim&quot;&gt;&lt;strong&gt;MTOK ve Normal Program Tavsiyelerim&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Bu programlar da eğer kendinizi yetiştirir ve ortalamanızı da yüksek tutarsanız UOLP’da bulunan öğrencilerinin yapabileceklerinin aynısı hatta ve hatta daha iyisini de yapabilirsiniz. Burada temel etken sizin çalışmanız, onlardan biraz daha fazla çalışmanız gerekiyor. Çünkü siz ingilizce eğitim görmüyorsunuz. Erasmus yapabilirsiniz ki bunun sizlere çok fazla artısı olur. Özellikle uzun dönem stajınızı kaliteli bir yerde yaparsanız iş hayatı konusunda ve sektör anlamında da sizlere çok faydası olur.&lt;/p&gt;
+
+&lt;p&gt;Bol bol çalışıp kendinizi geliştirmeye bakın.&lt;/p&gt;
+
+&lt;h5 id=&quot;uolp-programı-tavsiyelerim&quot;&gt;&lt;strong&gt;UOLP Programı Tavsiyelerim&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Öncelikle eğer maddi imkanınız var ise &lt;strong&gt;kesinlikle ama kesinlikle&lt;/strong&gt; bu programı okumanızı tavsiye ederim. Çünkü çift diploma alacaksnız ve Amerika’da çalışabileceksiniz. Türkiye’ye döndüğünüz taktirde sizlerin neredeyse özgeçmişinizin dolu olacağını varsayıyorum giremeyeceğiniz kurum olmayacak kısmen diyorum kendinizi yetiştirip dolu dolu bir süreç geçirdiyseniz tabiki de. Şunu da hatırlamakta fayda var bu bahsettiğimiz süreç öyle söylendiği gibi kolay değil. Çünkü gerek kültürel anlamda, gerekse dini anlamda çok daha farklı olan bir ülkeye gideceksiniz. Zorlukları mevcut fakat sizlere katacağı çok fazla tabi ki de. Bu programın sizlere aşağı yukarı toplam masrafı 50.000$ civarında. Fakat şunu da hatırlamak gerekiyor Amerika’da mühendis maaşı yıllık 100.000$. Vermiş olduğunuzun kat be kat karşılığı diyebilirim.&lt;/p&gt;
+
+&lt;h5 id=&quot;ders-Çalışma-sistemi&quot;&gt;&lt;strong&gt;Ders Çalışma Sistemi&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Üniversiteye geçince bazı insanlara rehavet çöker, oyun oynar, derslere son anda çalışır ve her şey sıkışır sonrada istediği gibi gitmez. Sizlere ders konusunda üç tavsiyem var;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Derslerde kendi notunuzu tutun.&lt;/li&gt;
+  &lt;li&gt;Dersten çıktıktan sonra eve/yurda gidince zamanınız var ise oturup o günün tekrarını yapın.&lt;/li&gt;
+  &lt;li&gt;Haftalık olarak tekrarlar yapın.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Bu üç maddeyi uyguladığınız zaman hem dersleri sağlam götürmüş olacaksınız hem de güzel bir ortalamaya sahip olursunuz. Bu dediklerimin sizlere günlük saat karşılığı ise 2 veya 3 saat sizin anlama ve kavrama düzeyinize göre değişir. Haftalık tekrarın sizlere saat karşılığı ise 4-5 saat maksimum.&lt;/p&gt;
+
+&lt;p&gt;(Yukarıda belirtmiş olduğum ders çalışma programını bende uygulamadım daha farklı yöntemler ve sistemlerde test ettim. Uygulamadığım ve tecrübesini edinmediğim bir yöntemi yazmıyorum sizlere :) )&lt;/p&gt;
+
+&lt;h3 id=&quot;elazığ-hakkında&quot;&gt;&lt;strong&gt;Elazığ Hakkında&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;İstanbul, Ankara, İzmir, Bursa ve Konya gibi büyük şehirlerden geliyorsanız eğer biraz hüsrana uğrayabilirsiniz çünkü küçük bir şehir ve bu şehirlere göre yapacak çok fazla bir etkinlik ve gidecek fazla bir yer bulamayabilirsiniz. Her şehrin kendine göre avantajı ve dezavantajı bulunmaktadır. Bu yüzden dolayı olaya iyi yönünden bakmak gerekir. Hatırlatmak istediğim de güzel bir husus var &lt;strong&gt;iyi insan her yerde iyidir, kötü insan ise her yerde kötüdür,&lt;/strong&gt; her yerde olduğu gibi iyi insanlarda var kötü insanlarda var Elazığ’da, siz iyi olanlar ile beraber olmaya bakın.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Küçük bir şehir olduğu için her yere yürüyerek gidebilirsiniz.&lt;/li&gt;
+  &lt;li&gt;Üniversite şehrin içinde olduğu için ulaşım problemi yaşamazsınız.&lt;/li&gt;
+  &lt;li&gt;Yapacak fazla bir aktivite olmadığı için çok fazla zamanınız olacak diyebilirim.&lt;/li&gt;
+  &lt;li&gt;Üniversite’de ve şehir’sde güzel etkinlikler gerçekleşiyor onlarıda kaçırmayın derim, sadece yazılım alanında olanları değil diğer etkinlikleri de takip edin.&lt;/li&gt;
+  &lt;li&gt;Çok fazla sertifika programı oluyor onlara katılıp faydalı sertifikaları alabilirsiniz.&lt;/li&gt;
+  &lt;li&gt;Gezme imkanımın olduğu ve gezmenizi tavsiye ettiğim iller; Mardin, Şanlıurfa ve Diyarbakır. Kesin gezin televizyonlarda anlatıldığı gibi değildir.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;masraflar&quot;&gt;&lt;strong&gt;Masraflar&lt;/strong&gt;&lt;/h3&gt;
+&lt;h5 id=&quot;genel-masraflar&quot;&gt;&lt;strong&gt;Genel Masraflar:&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Ulaşım için şehir dışından gelecekseniz eğer tren, otobüs veya uçak masrafınız olacaktır. Dersler için kitaplara ve fotokopilere ihtiyacınız olacak. Arada otobüse veya dolmuşa binerseniz bunların masrafı olacaktır. Elazığ’da öğrenciye otobüs ücreti 1,25₺ isterseniz para verirsiniz sürücüye isterseniz kartı var onu tutabilirsiniz. Dolmuş ise öğrenciye 1,50₺.&lt;/p&gt;
+
+&lt;h5 id=&quot;yurt-masrafı&quot;&gt;&lt;strong&gt;Yurt Masrafı&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;(Bu yurtların hemen hemen hepsinin web siteleri mevcut oradan ayrıntılı bilgi alabilir ve arayabilirsiniz.)&lt;/p&gt;
+
+&lt;h5 id=&quot;İlim-yayma-cemiyeti&quot;&gt;&lt;strong&gt;İlim Yayma Cemiyeti&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Artıları:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sahip olduğu ortamı evi aratmaz.&lt;/li&gt;
+  &lt;li&gt;Otobüslerin kalkış noktasına 5 dakika mesafede olduğu için otobüs ile rahat bir şekilde gidip, gelebilirsiniz. Fakat bazen tıklım tıklım dolu oluyor özellikle sınav zamanı buna çok dikkat etmenizi tavsiye ederim.(Sabah derse giderkende çok dolu oluyor.)&lt;/li&gt;
+  &lt;li&gt;Ücretlendirme olarak bildiğim kadarıyla devletin yurtlara sağlamış olduğu yemek bursunu veriyorlar ve böylece ödemeniz gereken ücret tam bilmemek ile beraber aylık 250₺ civarında.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Eksileri:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Okula biraz uzak. Ortalama yürüyüş hızınıza ve kısa yolları bilmenize bağlı olarak 20 ile 45 dakika arasında değişmektedir.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;tÜgva-yurdu&quot;&gt;&lt;strong&gt;TÜGVA Yurdu:&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Artıları:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fakültenize göre değişmek ile beraber okula 15 dakika mesafede.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Eksileri:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fiyat olarak biraz yüksektir. Aşağı yukarı 400₺ - 500₺ civarında. Yemek bursu imkanı gelip gelmediğini bilmemek ile beraber geldiği taktirde fiyatın yarı yarıya düşeceğini belirtmek isterim.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;kyk-yurtları&quot;&gt;&lt;strong&gt;KYK Yurtları:&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Artıları:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;KYK’lar bildiğiniz gibi çok ucuzdur. Aylık fiyatı 180₺ civarında.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Eksileri:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Eğer Ahmet Kabaklı yurdunda kalacaksınız şehire çok uzak mesafede derken dağın tepesinde yani farklı anlam çıkarılmasın :D. Fakat diğer yurtları Ahmet Kabaklıya nazaran şehrin içinde veya daha yakınlar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Not: Yurtta oda arkadaşınızı beğenmez iseniz yönetime belirtip odanızı değiştirebilirsiniz. Ek olarak aynı yurtta kalacaksanız eğer sene sonunda odanızı ve arkadaşlarınızı ayarlayıp biz şu odada kalacağız diyebilirsiniz. Bunu kesin yapın sağlam bir oda oluşturun kendinize.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;Öğrenci-evi&quot;&gt;&lt;strong&gt;Öğrenci Evi:&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Artıları:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ev arkadaşınız iyi ise sıkıntı yok.&lt;/li&gt;
+  &lt;li&gt;Yemek yapma, temizlik gibi işlerle ilgilenirim derseniz yine sıkıntı yok.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Eksileri:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ev kiraları ortalama olarak 500₺ ila 650₺ civarında değişmektedir.&lt;/li&gt;
+  &lt;li&gt;Ev arkadaşların iyi olduğu sürece sıkıntı olmaz yoksa büyük problem.&lt;/li&gt;
+  &lt;li&gt;Yemek yapma, evi temizleme gibi durumlar ile ilgilenmek istemiyorsanız kesinlikle tavsiyem yurt.&lt;/li&gt;
+  &lt;li&gt;İnternet, elektrik ve su gibi fatularınızda var.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;okul-masrafı&quot;&gt;&lt;strong&gt;Okul Masrafı:&lt;/strong&gt;&lt;/h3&gt;
+&lt;h5 id=&quot;mtok-ve-normal-program&quot;&gt;&lt;strong&gt;MTOK ve Normal Program&lt;/strong&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;birinci-Öğretim&quot;&gt;&lt;strong&gt;Birinci Öğretim:&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Alacağınız kitaplar, fotokopiler ve çıktılar haricinde herhangi bir masrafınız bulunmamaktadır.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;İkinc-Öğretim&quot;&gt;&lt;strong&gt;İkinc Öğretim:&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Normal şartlar altında dönemlik 764,5₺(yıllık 1,500₺) masrafınız bulunmaktadır. Ek olarak bir de kitaplar, fotokopiler ve çıktılar için masrafınız olacaktır.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;uolp-programı-1&quot;&gt;&lt;strong&gt;UOLP Programı&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tam olarak bilmemek ile beraber Türkiye’de yıllık 4.000₺ ve Amerika’da da yıllık 8.000$ gibi bir masrafınız olacaktır. Amerika masrafınız sadece 8.000$ mı onu bilmiyorum&lt;/li&gt;
+  &lt;li&gt;Amerika için uçak bileti almanız gerekecek. 750₺ ile 2.000₺ arasında değişmektedir.&lt;/li&gt;
+  &lt;li&gt;UOLP programında olup Amerika’da olan arkadaşım söylemişti; Texas’ta ev kirası 900$ üç kişi kaldıkları için kişi başı 300$. 300$’da harcama bunun içinde elektrik, ev alışverişi’de mevcut. Tabi bu 300$ harcama sana bağlı kişiden kişiye değişir.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;yazılım-etkinlikleri&quot;&gt;&lt;strong&gt;Yazılım Etkinlikleri&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Genellikle yaz veya kış etkinlikler, yazılım kampları ve kod yarışmaları yapılmaktadır. Bunlara katılmanızı tavsiye ederim çünkü tecrübe elde edersiniz, yeni insanlarla tanışmış olursunuz ve temel anlamda sizlere kazandıracağı Dünya’ya daha geniş bir pencereden bakabilirsiniz, daha farklı fırsatları görebilme imkanı elde edersiniz.&lt;/p&gt;
+
+&lt;h3 id=&quot;stajlar&quot;&gt;&lt;strong&gt;Stajlar&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Yazılım Mühendisliğinde stajlarınız ikinci sınıfın yaz döneminde yirmi gün, üçüncü sınıfın yaz döneminde yirmi gün ve (dilekçe vererek staj yapacağınız dönemi değiştirebilirsiniz dördüncü sınıf için geçerli bu durum.) dördüncü sınıfta yetmiş iş günü stajlarınız mevcut.&lt;/p&gt;
+
+&lt;h3 id=&quot;yol-haritası-niteliğinde-olabilecek-tavsiyelerim&quot;&gt;&lt;strong&gt;Yol Haritası Niteliğinde Olabilecek Tavsiyelerim&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;İkinci sınıfta hangi alanda uzman olmak istediğinizi belirlemiş olup o alanda çalışın. Bunu da şu şekilde yapabilirsiniz; Eğer MTOK iseniz hazırlık ve birinci sınıfta, eğer normal program iseniz  birinci sınıfta yazılım alanında var olan dalları inceleyin ve o dallar üzerine uygulama yapın. Mesala mobil üzerine bir şeyler yapın, backend üzerine bir şeyler yapın, frontend üzerine bir şeyler yapın, oyun üzerine bir şeyler yapın, hepsini denemeye çalışın kendiniz için en uygun olanı belirleyin.&lt;/li&gt;
+  &lt;li&gt;Ortalamanızı kesinlikle üç üzerinde tutun. Çünkü üç üzerinde ortalmanız olursa yurt dışında yüksek lisans yapmak istediğiniz zaman üniversite seçme imkanınız daha çok artar ve burs imkanları hep üç ortalama üzeri için var. Ortalamanız üçün altında oldumu burs almanız biraz değil baya bir zor.&lt;/li&gt;
+  &lt;li&gt;Kendinizi ne kadar çok yetiştirirseniz o kadar iyi. Çünkü ne kadar az tecrübeli olursanız sizi seçerler, ama siz kendinizi ne kadar çok yetiştirmiş ve tecrübe elde etmiş iseniz seçen tarafta siz olursunuz ve siz seçerseniz.&lt;/li&gt;
+  &lt;li&gt;Git, Github ve Trello gibi sistemleri öğrenin ve bu sistemlere hakim olun. Dünya’da çoğu firmada bu sistemler kullanılmaktadır.&lt;/li&gt;
+  &lt;li&gt;Bir yere staj veya iş başvurusunda bulunurken asla beni alırlar mı buraya girebilir miyim gibi düşünmeyin ve başvurun en fazla tecrübe elde edeceksiniz sizden bir götürüsü olmayacak.&lt;/li&gt;
+  &lt;li&gt;Bol bol pratik yapın bol bol kod yazın, algoritma anlamında, herhangi bir probleme çözüm üretme anlamında çok iyi olmaya çalışın. Çünkü üniversite de pratik yapmaz iseniz iş hayatında veya stajlarınızda zorlanırsınız.&lt;/li&gt;
+  &lt;li&gt;Okulda ne için olduğunuzu hatırlayın siz orada okulunuzu bitirmek için varsınız okulunuzu en iyi şekilde bitirin ve ek olarak kendinizi yetiştirmeye bakın.&lt;/li&gt;
+  &lt;li&gt;Üniversiteye girdiğiniz günden itibaren düzenli olarak ingilizce çalışın. Bol bol ingilizce hikayeler, kitaplar ve yazılar okuyun. Yolda gidip gelirken podcast’ler dinleyebilirsiniz.&lt;/li&gt;
+  &lt;li&gt;Şunu demeyin asla; “Abi bu ders ne işimize yarayacak, gerçek hayatta bunlar kullanılmıyor ki” demeyin, siz dersten ne alabilirsiniz almaya bakın ve AA düşürün.&lt;/li&gt;
+  &lt;li&gt;Bazı arkadaşlar matematik ve türevi derslerde zorlanıyorlar bende zorlanmıştım onlara şu şekilde bir tavsiye verebiliirim, dersi AA düşürecek şekilde öğren ve daha sonra iş hayatında veya kod yazarken karşına çıkarsa öğrenmem gereken kısmı otur çalışır öğren bilmediğin kısımlar karşına çıktıkça bu yöntemi tekrar et. Oturup sıfırdan matematik çalışmaya çalışma ben bunu bilmiyorum diye çünkü unutup gidersin.&lt;/li&gt;
+  &lt;li&gt;Şunu da dememeni tavsiye ederim; “Şu okul bitsede kurtulsak, şu okul bitsinde bir ondan sonra önümüze bakarız.” deme asla çünkü okul göz açıp kapatıncaya kadar bitiyor, benim bitiyor olduğu gibi.&lt;/li&gt;
+  &lt;li&gt;UOLP programında yanlış bilmiyorsam şöyle bir durum ile de karşılaşabilirsiniz bunu da aklınızda bulundurun ona göre yol haritanızı belirleyin. Malum Amerika’ya vize almak kolay değil, vize vermeyebilirler.&lt;/li&gt;
+  &lt;li&gt;Github’ı aktif kullanıp açık kaynak kodlu projelere katkıda bulunmaya çalışın. İlk başta Türkçe dil desteği sağlayabilirsiniz daha iyi öğrenebilmeniz adına.&lt;/li&gt;
+  &lt;li&gt;Kesinlikle ama kesinlikle blog tutmaya özen gösterin. Edindiğiniz tecrübeleri ve bilgileri başka insanlarla paylaşmaya çalışın. Staj yeri bulurken veya Yurt dışında yüksek lisans yapacağınız zaman bunun size çok fazla katkısı olur.&lt;/li&gt;
+  &lt;li&gt;Gerek Türkiye’de gerekse Yurt dışında yüksek lisans ve doktora yapıp üniversite’de olabileceğinizde aklınızın bir tarafında bulunsun.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Yazmış olduklarım umarım sizlere faydalı olmuştur. Sorularınız olursa istediğiniz soruyu sorabilirsiniz fakat soru sorarken biraz mantıklı sorular sormaya özen gösterelim. Mesala abi masaüstü programlama ölür mü gibi bir soru sorma mesala :D&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;Şu-maddeleri-de-her-daim-aklınız-da-bulundurmanızı-tavsiye-ederim&quot;&gt;Şu maddeleri de her daim aklınız da bulundurmanızı tavsiye ederim;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;- Karar vermek emek vermekten çok ama çok önemli.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Herhangi bir şey yaparken bu yaptığınızın sizlere 5 veya 10 yıl sonra dönüşü ne olacak bunu en iyi şekilde irdeleyin.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Bir şey yapmadan önce sizden daha tecrübeli ve tecrübesi çok olmasa dahi insanlarla istişare edin daha sonra içinizde ölçüp, biçip tartıp kararınızı verirsiniz.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Bir süreç hakkında ne kadar çok faydalı bilgiye sahip olursanız sürece o kadar hakim olursunuz.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Çalışmanız gerektiği zaman çalışmaz ve sorumluluklarınızı yerine getirmezseniz eğer ilerde bunun 2,3,5 veya 10 katı çalışmanız gerekebilir.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;- Son olarak en geç üniversite ikinci sınıfta hangi alanda uzman olmak istediğinizi belirleyin ve üç yıl boyunca(ikinci sınıf, üçüncü sınıf ve dördüncü sınıfta) o alan üzerine çalışın.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Saygı ve Sevgilerimle,&lt;/p&gt;
+
+&lt;p&gt;Abdullah.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Mar 2018 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2018/03/yazilim-muhendisligi-okumak-isteyenlere-tavsiyeler</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/yazilim-muhendisligi-okumak-isteyenlere-tavsiyeler</guid>
+        
+        <category>yazılım</category>
+        
+        <category>yazılımmuhendisliği</category>
+        
+        <category>elazığ</category>
+        
+        <category>üniversite</category>
+        
+        <category>UOLP</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sebat Etmek</title>
+        <description>&lt;h2 id=&quot;sebat-etmek&quot;&gt;Sebat Etmek&lt;/h2&gt;
+&lt;p&gt;Sebat kelimesi Arapça kökenli bir kelimedir. Kelimenin anlamı ise; &lt;strong&gt;‘kararında ya da sözünde direngen olma durumu, bir kararı sonuna değin uygulama, bir işi sonuna değin sürdürme’&lt;/strong&gt; dir. Anlamından çıkarımlar yapacak olursak herhangi bir işe veya ne üzerinde uğraşıyorsak onun üzerinde kararlı bir şekilde çalışmak, ilerlemek olarak anlayabiliriz.&lt;/p&gt;
+
+&lt;p&gt;Kısa kısa örnekler üzerinden anlatacağım sebat etmeyi. Şimdi örneklere geçelim;&lt;/p&gt;
+
+&lt;p&gt;Birinci örneğimiz; Kurumun birinde çalışan bir abi güzel bir olay anlattı. İş alım sürecinde mülakatlara gelen yeni mezun bir geliştirici, bilgisi ve seviyesi daha yüksek olan kişilerin alamadığı bir sertifikayı almış. Bunun üzerine abi sormuş bunu nasıl başardın diye, o da şu şekilde anlatmış; ‘Üniversite 2. sınıfta siber alanında ilerleyeme kesin karar verdim. Bu süreçte makaleler okudum, yazılar okudum. İkinci sınıfta web üzerine çalıştım, üçüncü sınıfta ağ(network) üzerine çalıştım ve son sınıfta da genel çalıştım.’ demiş. Görüldüğü üzere koca bir üç sene sonunda çalışmasının bir kısım meyvelerini elde etmiş. &lt;strong&gt;Üç sene boyunca&lt;/strong&gt; sebat ile çalışmış.&lt;/p&gt;
+
+&lt;p&gt;İkinci örneğimiz ise Endonezya Bali’de yaşayan bir geliştirici, Pieter Levels, nomadlist ve remoteok.io sitesinin kurucusu. Kendileri remoteok sitesinde uzaktan çalışılabilecek işler yayınlamaktır. Daha doğrusu yayıncılar geliyor ve uzaktan iş ilanlarını sitesinde veriyor. Kendisi siteyi 2015 yılında kurmuş ve şu an 1.000.000 ziyaretçisi bulunmakta. Geçenlerde twitter üzerinde yapmış olduğu bir paylaşımda ise iki gün içerisinde 2.500$ kazanç elde etmiş. Eğer amaç para kazanmak ise bunu yine sebat ederek gerçekleştirebilirsiniz. Tabi kısmetinizde de varsa.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;tr&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;📈 Record revenue of $17,500/m for &lt;a href=&quot;https://t.co/rORz8xdCQp&quot;&gt;https://t.co/rORz8xdCQp&lt;/a&gt; in the last 30 days 💃 &lt;a href=&quot;https://t.co/qkBKKK0l8D&quot;&gt;pic.twitter.com/qkBKKK0l8D&lt;/a&gt;&lt;/p&gt;&amp;mdash; Pieter Levels 🏝 (@levelsio) &lt;a href=&quot;https://twitter.com/levelsio/status/964067751437377538?ref_src=twsrc%5Etfw&quot;&gt;15 Şubat 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;tr&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I&amp;#39;m setting up an open revenue dashboard with &lt;a href=&quot;https://t.co/Obr8s95mxO&quot;&gt;https://t.co/Obr8s95mxO&lt;/a&gt; for &lt;a href=&quot;https://twitter.com/NomadList?ref_src=twsrc%5Etfw&quot;&gt;@nomadlist&lt;/a&gt; + &lt;a href=&quot;https://twitter.com/remote_ok?ref_src=twsrc%5Etfw&quot;&gt;@remote_ok&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;It&amp;#39;ll be the 2nd open revenue dashboard by ChartMogul after &lt;a href=&quot;https://twitter.com/JohnONolan?ref_src=twsrc%5Etfw&quot;&gt;@johnonolan&lt;/a&gt;&amp;#39;s &lt;a href=&quot;https://twitter.com/TryGhost?ref_src=twsrc%5Etfw&quot;&gt;@TryGhost&lt;/a&gt;!&lt;br /&gt;&lt;br /&gt;I&amp;#39;m honored. 😲 &lt;a href=&quot;https://t.co/ErA4ZiQZMG&quot;&gt;pic.twitter.com/ErA4ZiQZMG&lt;/a&gt;&lt;/p&gt;&amp;mdash; Pieter Levels 🏝 (@levelsio) &lt;a href=&quot;https://twitter.com/levelsio/status/960839279936135168?ref_src=twsrc%5Etfw&quot;&gt;6 Şubat 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;tr&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;📈 &lt;a href=&quot;https://twitter.com/remote_ok?ref_src=twsrc%5Etfw&quot;&gt;@remote_ok&lt;/a&gt; annual revenue growth rate at 193.4% now:&lt;br /&gt;&lt;br /&gt;👋 New customers: 435 (+417.8%)&lt;br /&gt;💸 Revenue per customer: $328.13 (+331.6%)&lt;br /&gt;💰 Gross revenue: $92,708.84 (+193.4%)&lt;br /&gt;&lt;br /&gt;
+this is only Stripe job posts revenue, excludes some extra ad rev &lt;a href=&quot;https://t.co/YbC5Ihxzln&quot;&gt;pic.twitter.com/YbC5Ihxzln&lt;/a&gt;&lt;/p&gt;&amp;mdash; Pieter Levels 🏝 (@levelsio) &lt;a href=&quot;https://twitter.com/levelsio/status/959460965925335044?ref_src=twsrc%5Etfw&quot;&gt;2 Şubat 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Örnekler çoğaltılabilir ve aslında çevremizde çok fazla var sadece bizler farkında değiliz.&lt;/p&gt;
+
+&lt;p&gt;Eğer hayatınızda çalışmanız gereken yerlerde bunu aksatır ve belirli bir süre sabredip çalışmazsanız hayatınız boyunca çalışmadığınızın sıkıntısını çekersiniz. Belki birileri gezerken siz çalışıyor olacaksınız ama onlar çalışırkende siz geziyor olacaksınız.&lt;/p&gt;
+
+&lt;p&gt;Siz eğer sebat ile çalışmaya devam ederseniz elbette ki karşılığını alırsınız. Tabi bazen çalışmanızın karşılığını istediğiniz şekilde değilde daha farklı bir şekilde alabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Her daim aklınızda bulunması gereken bir cümle olduğunu düşünüyorum; &lt;strong&gt;Doğru kararı vermek, emek vermekten çok ama çok daha önemli.&lt;/strong&gt; Çünkü karar verdiğin durumun üzerinde çalışacaksın, belki kararın yanlış olabilir üzüntüye kapılma çünkü yanlış bile olsa bir tecrübe elde ettin doğru kararı vermek için hiç bir zaman geç değil.&lt;/p&gt;
+
+&lt;p&gt;Umarım sizlere sebat etme’nin tam olarak ne olduğunu anlatabilmişimdir. Sizlerde kendi sebat hikayenizi yorumlarda bizlerle paylaşabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Görüşmek üzere,
+Abdullah.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Feb 2018 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2018/02/sebat-etmek</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/sebat-etmek</guid>
+        
+        <category>sebat,</category>
+        
+        <category>yazılım,</category>
+        
+        <category>başarı,</category>
+        
+        <category>azim,</category>
+        
+        <category>sebat</category>
+        
+        <category>etmek</category>
+        
+        
+      </item>
     
       <item>
         <title>Bilgisayar Bilimcisinin Alet Çantası</title>
         <description>&lt;h2 id=&quot;bilgisayar-bilimcisinin-alet-Çantası&quot;&gt;Bilgisayar Bilimcisinin Alet Çantası&lt;/h2&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Son GÜncelleme: 18 Şubat 2018&lt;/p&gt;
+  &lt;p&gt;Son GÜncelleme: 21 Şubat 2018&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Bilgisayar sektöründe kullanabileceğiniz ve faydalanabileceğinz bir sürü içerik ve kaynak bulunmaktadır. Bu kaynaklardan elbette ki hiç biri boş değildir fakat bazıları daha çok işinizi görür. Bende bu sektörde çalışmakta olan veya sektöre yeni girmek isteyenler için kendi kullandığım ve sizlerede faydası olabileceğini düşündüğüm kaynak ve araçlarları ayrıntılı bir şekide paylaşacağım. Eğer sizde kullandığınız ve diğer insanlara faydalı olabileceğini düşündüğünüz araçlar ve kaynaklar var ise bunları lütfen yorumlar kısmında belirtin ki hem insanlar faydalanabilsin hemde güzel bir içeriğie sahip olmuş olalım. Eğer isterseniz de github üzerinden bu yazıya katkıda bulunabilirsiniz.&lt;/p&gt;
@@ -60,6 +309,10 @@
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://trello.com&quot;&gt;Trello&lt;/a&gt;:&lt;/strong&gt; Yazılım proje yönetim aracıdır. Bu araçla projelerinizi burada planlayabilirsiniz ve buradan takip edebilirsiniz.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.getpostman.com&quot;&gt;Postman&lt;/a&gt;:&lt;/strong&gt; Projelerinizde yazmış olduğunuz API’yi test edebilmenizi sağlayan bir araçtır.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://codepen.io/&quot;&gt;Codepen&lt;/a&gt;:&lt;/strong&gt; Codepen yazılımcıların yaptıklarını yayınlayabildkleri ve diğer kişilerinde önizleme yapabilmesini sağlayan bir site. İncelemenizde fayda var.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://asana.com&quot;&gt;Asana&lt;/a&gt;:&lt;/strong&gt; Trello gibi proje yönetim aracı.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://install.advancedrestclient.com/#/install&quot;&gt;Advanced Rest Client&lt;/a&gt;:&lt;/strong&gt; Postman gibi rest api test aracı.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.soapui.org&quot;&gt;SoapUI&lt;/a&gt;:&lt;/strong&gt; API testi için farklı bir araç.
+ -&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;NOT: Yazılım araçlarından hem github hemde bitbucket ikisinide beraber kullanmanızı tavsiye ederim. Çünkü açık kaynaklı projelerin çoğu Github’da yayınlandığı için katkıda da bulunabilirsiniz. Dünya’nın en büyük firmaları açık kaynak projelerini hep Github’da yayınlar.&lt;/strong&gt; &lt;strong&gt;Yazılım araçlarından Github, Bitbucket, Trello ve Codepen araçlarını bir göz atmanızı tavsiye ederim. Çünkü yazılım sektöründe olupta bu araçları bilmeyen çok kişi var. Bilmemek ayıp değil, öğrenmemek ayıptır.&lt;/strong&gt;&lt;/p&gt;
@@ -68,7 +321,7 @@
 
 &lt;h2 id=&quot;text-editörler&quot;&gt;Text Editörler&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://atom.io&quot;&gt;Atom&lt;/a&gt;:&lt;/strong&gt; Facebook’un geliştirmiş olduğu text tabanlı editördür. Açık kaynaklı ve içerisinde çok fazla aracı barındırmaktadır. Text editör olarak bunu tavsiye edebiliirim.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://atom.io&quot;&gt;Atom&lt;/a&gt;:&lt;/strong&gt; Github’ın geliştirmiş olduğu text tabanlı editördür. Açık kaynaklı ve içerisinde çok fazla aracı barındırmaktadır. Text editör olarak bunu tavsiye edebiliirim. Ek olarak eş zamanlı başkaları ile beraber kod yazmanızada izin veriyor. &lt;a href=&quot;https://teletype.atom.io&quot;&gt;Buradan&lt;/a&gt; inceleyebilirsiniz.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://brackets.io&quot;&gt;Bracket&lt;/a&gt;:&lt;/strong&gt; Bu aracı bir süre kullandım, gayet kullanışlı ve güzel.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sublimetext.com&quot;&gt;Sublime Text&lt;/a&gt;:&lt;/strong&gt; Uzun bir süre bu aracıda kullandım bunu da incelemenizi tavsiye ederim.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://notepad-plus-plus.org&quot;&gt;Notepad++&lt;/a&gt;:&lt;/strong&gt; Çok kullandığımı söyleyemeceğim ama incelemenizde fayda var.&lt;/li&gt;
@@ -119,6 +372,14 @@
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/turkce/tarihten-6-tavsiye-merak-aksilik-tutku-reddedilme-ve-p%C3%BCr%C3%BCzl%C3%BC-m%C3%BCkemmellik-%C3%BCzerine-7e85ccccf7eb&quot;&gt;Tarihten 6 tavsiye: Merak, aksilik, tutku, reddedilme, ve pürüzlü mükemmellik üzerine&lt;/a&gt;:&lt;/strong&gt; Bir şeye başlarken bunları dikkate alın.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@ibrahimhizlioglu/kendini-geli%C5%9Ftirmek-i%CC%87steyen-yaz%C4%B1l%C4%B1mc%C4%B1lara-%C3%B6nerilerim-b6f8929a9b5a&quot;&gt;“Ben Artık Oldum!” Sendromu&lt;/a&gt;:&lt;/strong&gt; İlim ilim bilmektir, sen kendini bilmez isen bu ya nice okumaktır diyoruz ve sizi yazıya alıyoruz.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/house-of-apps/abuzittin-framework-developer-8f926d04b284&quot;&gt;Abuzittin Framework Developer&lt;/a&gt;:&lt;/strong&gt; Bunu da okuyun :)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://alperiskender.com/verimli-calismak-101/&quot;&gt;Verimlilik 101&lt;/a&gt;:&lt;/strong&gt; Verimli çalışmak üzerine bilimsel çalışmalar ile desteklenmiş güzel bir yazı.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;tavsiye-videolar&quot;&gt;Tavsiye Videolar&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;:&lt;/strong&gt; Selman abinin kariyer ve linkedin üzerine uzun bir videosu. Tamamını izlemenizi tavsiye ederim gelecekte neler yapmanız konusunda ve sosyal medyayı daha iyi nasıl kullanabilirsiniz konularında sizlere fikir verebilir.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -147,9 +408,16 @@
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.dunyahalleri.com/haftanin-ozeti/&quot;&gt;Haftanın Özeti&lt;/a&gt;:&lt;/strong&gt; İnternet ekipleri amiri M. Serdar Kuzuloğlu’nun teknoloji sitesi.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://webrazzi.com/&quot;&gt;Webrazzi&lt;/a&gt;:&lt;/strong&gt; Teknoloji dünyasını yakından takip edebileceğiniz site.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.producthunt.com/&quot;&gt;Product Hunt&lt;/a&gt;:&lt;/strong&gt; Kişilerin veya geliştiricilerin ürün paylaşabilmesini sağlayan kaliteli bir site.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com&quot;&gt;Medium&lt;/a&gt;:&lt;/strong&gt; Herkesin yazılarını yayınlayabilmelerini sağlayan platform. Sağlam içerikler mevcut incelemenizi tavsiye ederim.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.ted.com&quot;&gt;Ted&lt;/a&gt;:&lt;/strong&gt; Bilimsel ve yüksek derecede feyiz içeren bir site incelemeden geçmeyin.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
+
+&lt;p&gt;## Medium Kaynakları&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/nsistanbul&quot;&gt;NSIstanbul&lt;/a&gt;:&lt;/strong&gt; Türkiye’de bulunan Apple geliştiricilerinin yayın yaptıkları blog.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Bir sonraki yazıda görüşmek ümidiyle, hoşça kalın.&lt;/p&gt;
 </description>
