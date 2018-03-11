@@ -24,3 +24,6 @@ sass:
     style: compressed
 
 exclude: [vendor]
+
+plugins:
+    - jekyll-seo-tag

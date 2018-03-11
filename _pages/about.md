@@ -9,7 +9,7 @@ Bol bol kitap okumaya çalışıyorum. Hobi olarak arayüz tasarımları yapıyo
 
 ----
 
-## Beni Buralardan Takip Edebilirsiniz
+## Benim ile bu kanallar aracılığı ile iletişime geçebilirsin.
 
 - [Instagram](https://www.instagram.com/mrabdullahsahin)
 - [Github](https://www.github.com/mrabdullahsahin)
