@@ -7,7 +7,8 @@ tags: çalışma süreklilik
 comments: true
 ---
 
-## Taksit Taksit Ödemek
+## Taksit Taksit Ödemek
+
 Hayat aslında yaptıklarımızın yedi kiremit oyununda olduğu gibi üst üste birleşmesi sonucundan oluşuyor ve karşımızada bu doğrultuda bir şeyler çıkmaktadır. Eğer kiremitin temeli sağlam olursa üzerine istediğimiz kadar kiremit ekleyebiliriz. Hep derler ya hani o çocuğun temeli sağlamdı o yüzden iyi bir okula gitti diye. Bu söylem %100 doğru. Çünkü yaptıkların bir zincir haline geliyor ve zincirler arasında ne kadar sağlam ve kaliteli bir şekilde bağlar oluşturur ve birleştirirsen karşına çıkan fırsatlar ve imkanlarda o kadar büyük ve kaliteli oluyor.
 
 Başlığıda en iyi şekilde özetlemesi adına şöyle bir örnek vermek istiyorum; Bir alışveriş yaptık diyelim, bunu taksitlendirdik, bu halkanın bir zinciri. Daha sonra bir alışveriş daha, bir daha ve bir daha alışveriş yapıp taksit yaptırdık. Şu an halkamızda dört adet zincir var ve bu zincirler aslında geçmişte yaptığımız bir şey ve bu belirlediğimiz süre(12 ay, 24 ay, 36 ay) boyunca hep karşımıza çıkıyor, bizi rahatsız ediyor aslında. Olaya bir de nakit ödeme penceresinden bakalım, bir alışveriş yapıyoruz ve ödüyoruz, sonra bir daha, bir daha ve bir daha yapıyoruz ve ödüyoruz. Oluşturduğumuz halkamıza baktığımızda ise zincir dolu ama tertemiz.
@@ -22,4 +23,5 @@ B öğrencisi, Üniversite yıllarına kadar hem derslerinde çok başarılı ol
 Yazımı her daim üzerine düşünülmesi ve aklımızda bulundurulması gereken iki ayrıntı ile bitirmek istiyorum;
 
 **- Her ne yaparsan yap yaptığının sana 5, 10 hatta 30 yıl sonra ki karşılığı ne olacak?**
+
 **- Doğru kararı vermek emek vermekten çok ama çok önemli.**
