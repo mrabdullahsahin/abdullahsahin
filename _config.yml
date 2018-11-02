@@ -1,8 +1,8 @@
 # Site settings
 title: "Abdullah ŞAHİN"
 description: >
-  Baş eğmeziz edâniye dünyâ-yı dûn içün </br>
-  Allah'adır tevekkülümüz i'timadımız
+  Taşı delen, suyun kuvveti değil; <br>
+              dalgaların sürekliliğidir.
 
 author: Abdullah ŞAHİN
 email:
@@ -25,5 +25,5 @@ sass:
 
 exclude: [vendor]
 
-plugins:
+plugins_dir:
     - jekyll-seo-tag

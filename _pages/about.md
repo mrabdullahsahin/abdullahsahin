@@ -11,11 +11,11 @@ Bol bol kitap okumaya çalışıyorum. Hobi olarak arayüz tasarımları yapıyo
 
 ## Benim ile bu kanallar aracılığı ile iletişime geçebilirsin.
 
-- [Instagram](https://www.instagram.com/mrabdullahsahin)
 - [Github](https://www.github.com/mrabdullahsahin)
 - [Twitter](https://www.twitter.com/mrabdullahsahin)
 - [Linkedin](https://www.linkedin.com/in/mrabdullahsahin/)
 - [Dribbble](https://dribbble.com/abdullahsahin)
 - [Behance](https://www.behance.net/abdullahsaf7fe)
 - [YouTube](https://www.youtube.com/channel/UCgPQkIGFTb9rqA46I2T1Y3A/videos)
-- [Anchor](https://anchor.fm/abdullahsahin)(Podcast'lerime buradan ulaşabilirsiniz.)
+- [Udemy](https://www.udemy.com/user/abdullahahin4/)
+- [Kaggle](https://www.kaggle.com/abdullahsahin)
