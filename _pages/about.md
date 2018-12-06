@@ -3,9 +3,8 @@ layout: content
 title: Hakkımda
 permalink: /about/
 ---
-Fırat Üniversitesi'nde Yazılım Mühendisliği bölümünü okuyorum. Son sınıf öğrencisiyim. Ağırlıklı olarak iOS ve Swift konusunda kendimi geliştirmekteyim.
 
-Bol bol kitap okumaya çalışıyorum. Hobi olarak arayüz tasarımları yapıyorum. Kullanıcı deneyimini çok önemseyen biriyim. Arayüz tasarımı ve Kullanıcı deneyimi ile ilgili araştırmalarda yapmaktayım. Yapay zeka alanınıda takip ediyorum.
+İnsanlara yardımcı olmayı seven, boş zamandan nefret eden, yaptığının hakkını verip en iyisini yapmaya çabalayan ve araştıran biriyim.
 
 ----
 
