@@ -1,0 +1,8 @@
+<span class="reading-time">
+  {% assign words = content | number_of_words %}
+  {% if words < 360 %}
+    Okuma Süresi: 1 dakika
+  {% else %}
+    Okuma Süresi: {{ words | divided_by:180 }} dakika
+  {% endif %}
+</span>

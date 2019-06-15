@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Bilgisayar Bilimcisinin Alet Çantası"
-description: "Kaynak ve Alet Çantamız"
-date: 2018-02-18
-tags: bilgisayar, yazılım, kaynak
-comments: true
+author: sal
+categories: [ bilgisayar ]
+image: assets/images/1.jpg
+tags: [featured]
 ---
 
-## Bilgisayar Bilimcisinin Alet Çantası
 > Son GÜncelleme: 21 Şubat 2018
 
 Bilgisayar sektöründe kullanabileceğiniz ve faydalanabileceğinz bir sürü içerik ve kaynak bulunmaktadır. Bu kaynaklardan elbette ki hiç biri boş değildir fakat bazıları daha çok işinizi görür. Bende bu sektörde çalışmakta olan veya sektöre yeni girmek isteyenler için kendi kullandığım ve sizlerede faydası olabileceğini düşündüğüm kaynak ve araçlarları ayrıntılı bir şekide paylaşacağım. Eğer sizde kullandığınız ve diğer insanlara faydalı olabileceğini düşündüğünüz araçlar ve kaynaklar var ise bunları lütfen yorumlar kısmında belirtin ki hem insanlar faydalanabilsin hemde güzel bir içeriğie sahip olmuş olalım. Eğer isterseniz de github üzerinden bu yazıya katkıda bulunabilirsiniz.

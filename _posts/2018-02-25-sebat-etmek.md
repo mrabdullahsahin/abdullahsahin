@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Sebat Etmek"
-description: "Geçici ödüllere değil kalıcı ödüllere giden yol"
-date: 2018-02-25
-tags: sebat, yazılım, başarı, azim, sebat etmek
-comments: true
+title:  "Sebat Etmek"
+author: sal
+categories: [ diğer ]
+image: assets/images/5.jpg
+tags: [featured]
 ---
 
 ## Sebat Etmek
+
 Sebat kelimesi Arapça kökenli bir kelimedir. Kelimenin anlamı ise; **'kararında ya da sözünde direngen olma durumu, bir kararı sonuna değin uygulama, bir işi sonuna değin sürdürme'** dir. Anlamından çıkarımlar yapacak olursak herhangi bir işe veya ne üzerinde uğraşıyorsak onun üzerinde kararlı bir şekilde çalışmak, ilerlemek olarak anlayabiliriz.
 
 Kısa kısa örnekler üzerinden anlatacağım sebat etmeyi. Şimdi örneklere geçelim;

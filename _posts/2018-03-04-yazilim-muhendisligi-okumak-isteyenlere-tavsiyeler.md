@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Yazılım Mühendisliği Okumak İsteyenlere Tavsiyeler"
-description: "Elazığ ve Yazılım Mühendisliği Üzerine Sohbet"
-date: 2018-03-04
-tags: yazılım yazılımmuhendisliği elazığ üniversite UOLP
-comments: true
+author: sal
+categories: [ yazılım mühendisliği, tecrübe ]
+image: assets/images/2.jpg
+tags: [featured]
 ---
 
 ## Yazılım Mühendisliği Okumak İsteyenlere Tavsiyeler

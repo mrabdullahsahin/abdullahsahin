@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Mavi Okyanus Stratejisi"
-description: "Seçilen değil seçen olabilmenin sırrı"
-date: 2018-03-11
-tags: seçilen maviokyanusstratejisi yazılım erasmus ömerekinci seninyolun sabır sebat
-comments: true
+author: sal
+categories: [ diğer ]
+image: assets/images/6.jpeg
 ---
 
 ## Mavi Okyanus Stratejisi
+
 Geçenlerde [Ömer Ekinci](http://omerekinci.com) abinin [Senin Yolun](http://www.kitapyurdu.com/kitap/senin-yolun/407604.html&filter_name=senin%20yolun) kitabını okumuştum. Orada çok güzel bir noktaya değiniyordu, **Mavi Okyanus Stratejisi**. Bu strateji kişinin kendisini ne kadar yetiştirirse sıyrılma, seçme imkanın ve rekabetinin o oranda azalacağını belirtiyor. Güzel de bir örnek vermiş şu an en ince ayrıntısına kadar hatırlamasamda örnek şu şekilde; Uluslarası İlişkiler bölümünden yıllık olarak 100.000 kişi mezun oluyor diyelim. Bu bölümü okuyan bir kişinin rekabet oranı 1/100.000 olacak fakat bu kişi ingilizce bilse bu oran 1/75.000 oranına düşecek, bu kişi satış yeteneklerine sahip olsa oran 1/40.000 ve bu kişi Rusça bilse rekabet oranı 1/1.000 olacak. Örnekte de olduğu gibi biz kendimizi ne kadar iyi bir şekilde yetiştirirsek rekabetimizde azalıyor, seçme ve bizim seçilme oranımızda o oranda artıyor.
 
 Konunun biraz daha iyi anlaşılması adına şöyle bir örnek vermek istiyorum. Biz iş veren tarafındayız diyelim. İşe alımda mülakatlarda karşımıza iki kişi geliyor. Bu iki kişi de aynı bölümden mezun. A şahsı normal bir öğrenci, sadece derslerine çalışmış ve okulu bitirmiş. B şahsı ise okul süresince erasmus yapmış, github(yazılımcıların kullandığı bir servis) üzerinde birçok projeye katkıda bulunmuş, bu süreçte de beş adet proje geliştirmiş ve yurt dışında staj yapmış. Şimdi iş veren olarak hangisini seçeriz. Tabi ki de B şahsını seçeriz. Çünkü bu kişi kendini yetiştirmiş. Sadece okulu bitirmek ile kalmamış yurt dışı tecrübesinden tutun da bir çok açık kaynak projeyede katkıda bulunmuş.

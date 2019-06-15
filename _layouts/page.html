@@ -1,10 +1,14 @@
 ---
 layout: default
 ---
-<div class="c-page">
-    {% include header.html %}
-    <div class="c-page__main">
-    {{ content }}
-    </div>
-    {% include footer.html %}
+
+<div class="container">
+<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
+<div class="page-content">
+{{ content }}
+<!-- Comments -->
+{% if page.comments == true %}
+{% include comments.html %}
+{% endif %}
+</div>
 </div>

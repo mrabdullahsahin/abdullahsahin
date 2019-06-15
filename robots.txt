@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Disallow: /cgi-bin/
-Sitemap: https://mrabdullahsahin.github.io/feed.xml

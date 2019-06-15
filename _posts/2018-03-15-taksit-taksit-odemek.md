@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Taksit Taksit Ödemek"
-description: "Kırmızı Hap Mı Yoksa Mavi Hap Mı? Tarafını Seç"
-date: 2018-03-18
-tags: çalışma süreklilik
-comments: true
+author: sal
+categories: [ diğer ]
+image: assets/images/4.jpg
 ---
 Hayat aslında yaptıklarımızın yedi kiremit oyununda olduğu gibi üst üste birleşmesi sonucundan oluşuyor ve karşımızada bu doğrultuda bir şeyler çıkmaktadır. Eğer kiremitin temeli sağlam olursa üzerine istediğimiz kadar kiremit ekleyebiliriz. Hep derler ya hani o çocuğun temeli sağlamdı o yüzden iyi bir okula gitti diye. Bu söylem %100 doğru. Çünkü yaptıkların bir zincir haline geliyor ve zincirler arasında ne kadar sağlam ve kaliteli bir şekilde bağlar oluşturur ve birleştirirsen karşına çıkan fırsatlar ve imkanlarda o kadar büyük ve kaliteli oluyor.
 

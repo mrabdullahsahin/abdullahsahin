@@ -1,20 +1,8 @@
 ---
-layout: content
-title: Hakkımda
-permalink: /about/
+title: "About"
+layout: page-sidebar
+permalink: "/about.html"
+image: "/assets/images/screenshot.jpg"
+comments: true
 ---
-
-İnsanlara yardımcı olmayı seven, boş zamandan nefret eden, yaptığının hakkını verip en iyisini yapmaya çabalayan ve araştıran biriyim.
-
-----
-
-## Benim ile bu kanallar aracılığı ile iletişime geçebilirsin.
-
-- [Github](https://www.github.com/mrabdullahsahin)
-- [Twitter](https://www.twitter.com/mrabdullahsahin)
-- [Linkedin](https://www.linkedin.com/in/mrabdullahsahin/)
-- [Dribbble](https://dribbble.com/abdullahsahin)
-- [Behance](https://www.behance.net/abdullahsaf7fe)
-- [YouTube](https://www.youtube.com/channel/UCgPQkIGFTb9rqA46I2T1Y3A/videos)
-- [Udemy](https://www.udemy.com/user/abdullahahin4/)
-- [Kaggle](https://www.kaggle.com/abdullahsahin)
+Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).

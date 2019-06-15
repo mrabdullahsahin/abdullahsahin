@@ -1,6 +1,6 @@
 ## Blog [mrabdullahshin.github.io](http://mrabdullahsahin.github.io)
 
-[Jekyll](http://jekyllrb.com) tabanlı bir blogdur. Kullanılan tema [burada](https://github.com/mkchoi212/paper-jekyll-theme) yer almaktadır. [GitHub Pages](https://pages.github.com)'de barındırılmaktadır. Yazılar Markdown ile yazılmaktadır.
+[Jekyll](http://jekyllrb.com) tabanlı bir blogdur. Kullanılan tema [burada](https://wowthemesnet.github.io/mundana-theme-jekyll/) yer almaktadır. [GitHub Pages](https://pages.github.com)'de barındırılmaktadır. Yazılar Markdown ile yazılmaktadır.
 
 ## İletişim
 
@@ -10,4 +10,4 @@
 
 ## Lisans
 
-&copy; 2018 - Abdullah ŞAHİN
+&copy; 2019 - Abdullah ŞAHİN

@@ -1,29 +1,57 @@
-# Site settings
-title: "Abdullah ŞAHİN"
-description: >
-  Taşı delen, suyun kuvveti değil; <br>
-              dalgaların sürekliliğidir.
+# Site
+name: 'Abdullah Sahin'
+description: 'Experiences of Machine Learning'
+logo: 'assets/images/kagglelogo.png'
+favicon: 'assets/images/kagglelogo.ico'
+baseurl: '/anasayfa'
+disqus: 'mrabdullahsahin'
+email: 'wowthemesnet@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-author: Abdullah ŞAHİN
-email:
-twitter_username: mrabdullahsahin
-linkedin_username: mrabdullahsahin
+include: ["_pages"]
+permalink: /:title/
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-google_analytics_id: UA-102499452-1
-disqus_id: mrabdullahsahin
+authors:
+    sal:
+      name:           Abdullah Sahin
+      site:           https://www.kaggle.com/abdullahsahin
+      avatar:         /assets/images/abdullahsahin.jpeg
+      bio:            "Hi, I am Abdullah Sahin, the author of Kaggle LogBook and I am Expert of Kaggle. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://www.kaggle.com/abdullahsahin
 
-# Build settings
-include: [_pages]
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/abdullahsahin.jpeg
+
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
 markdown: kramdown
-permalink: /:year/:month/:title
+highlighter: rouge
 
-sass:
-    style: compressed
+# Paginate
+paginate: 10
 
-exclude: [vendor]
 
-plugins_dir:
-    - jekyll-seo-tag
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
