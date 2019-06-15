@@ -4,7 +4,7 @@
 
 ## İletişim
 
-* Hata bildirimi için buraya [issue](https://github.com/mrabdullahshin/mrabdullahshin.github.io/issues)
+* Hata bildirimi için buraya [issue](https://github.com/mrabdullahshin/mrabdullahshin.github.io/issues) yeni bir hata oluşturabilirsiniz.
 * [Twitter](https://twitter.com/mrabdullahsahin/)
 * [Linkedin](https://www.linkedin.com/in/mrabdullahsahin/)
 
