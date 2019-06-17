@@ -7,11 +7,12 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <div className="Description">
-      <img src={profile} />
-      <h1> 👋Hi! I'm Abdullah</h1>
-      <h1> 🛠 Indie Maker from 🇹🇷 living in 🕌 Konya</h1>
+      <div className="DescriptionGroup">
+        <img src={profile} />
+        <h1> 👋Hi! I'm Abdullah</h1>
+        <p> 🛠 Indie Maker from 🇹🇷 living in 🕌 Konya</p>
+      </div>
       <div className="Logos">
-        
       </div>
     </div>
     <SEO title="Home" />
