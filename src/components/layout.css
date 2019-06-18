@@ -39,12 +39,16 @@ a {
     color: white;
     font-size: 30px;
     line-height: 1.2;
+    opacity: 0;
+    animation: DescriptionAnimation 3s 0.1s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 .Description p {
     color: rgba(255, 255, 255, 0.8);
     font-size: 25px;
     line-height: 1.5;
+    opacity: 0;
+    animation: DescriptionAnimation 3s 0.4s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 @media (max-width: 640px) {
@@ -58,5 +62,17 @@ a {
 
     .Hero p {
         font-size: 20px;
+    }
+}
+
+@keyframes DescriptionAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
     }
 }
