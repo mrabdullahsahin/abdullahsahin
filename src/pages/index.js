@@ -8,11 +8,15 @@ const IndexPage = () => (
   <Layout>
     <div className="Description">
       <div className="DescriptionGroup">
-        <img src={profile} />
+        <img className="profile" src={profile} />
         <h1> 👋Hi! I'm Abdullah</h1>
         <p> 🛠 Indie Maker from 🇹🇷 living in 🕌 Konya</p>
 
         <div className="Logos">
+          <img src={require('../images/linkedin.png')} width="50" />
+          <img src={require('../images/github.png')} width="50"/>
+          <img src={require('../images/twitter.png')} width="50"/>
+          <img src={require('../images/instagram.png')} width="50"/>
         </div>
 
         <svg width="100%" height="172" fill="none" xmlns="http://www.w3.org/2000/svg">
