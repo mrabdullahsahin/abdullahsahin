@@ -1,0 +1,104 @@
+a {
+    color: #5334f5;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.Hero {
+    background: url('../../images/wallpaper.jpg');
+    height: 920px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.HeroGroup {
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 150px 50px;
+    text-align: center;
+}
+
+.HeroGroup .Profile {
+    border-radius: 50%;
+    max-width: 100%;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 30px 60px;
+    transform: translateY(-5px);
+}
+
+.Hero h1 {
+    margin: 0;
+    color: white;
+    font-size: 30px;
+    line-height: 1.2;
+    opacity: 0;
+    animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.Hero p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 25px;
+    line-height: 1.5;
+    opacity: 0;
+    animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.8, 0.8, 0.2, 1);
+}
+
+@media (max-width: 640px) {
+    .HeroGroup {
+      padding: 100px 20px;
+    }
+  
+    .Hero h1 {
+      font-size: 20px;
+    }
+  
+    .Hero p {
+      font-size: 20px;
+    }
+  }
+
+@keyframes HeroAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+  
+    100% {
+      opacity: 100;
+      transform: translateY(0px);
+    }
+}
+
+.Hero svg {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.Hero .Logos{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    margin: 100px 0;
+    justify-items: center;
+    opacity: 0;
+    animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.8, 0.8, 0.2, 1);
+}
+
+.Hero .Logos img {
+  transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+}
+
+.Hero .Logos:hover img:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
+  
+  @media (max-width: 640px) {
+    .Hero .Logos {
+      grid-template-columns: repeat(2, 1fr);
+    }
+}
