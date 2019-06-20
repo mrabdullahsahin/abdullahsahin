@@ -3,11 +3,11 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Header from "../components/IndexHeroArea/IndexHeroArea"
+import IndexHeroArea from "../components/IndexHeroArea/IndexHeroArea"
 
 const SecondPage = () => (
   <Layout>
-    <Header/>
+    <IndexHeroArea/>
     <SEO title="Page two" />
     <h1>Hi from the second page</h1>
     <p>Welcome to page 2</p>
