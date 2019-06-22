@@ -1,0 +1,29 @@
+.Menu a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.FooterGroup {
+    width: 750px;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    max-width: 100%;
+}
+
+.Menu h1 {
+    font-size: 25px;
+}
+
+.Menu {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    text-align: center;
+}
+
+@media (max-width: 640px) {
+    .FooterGroup {
+      grid-template-columns: repeat(1, 1fr);
+    }
+}

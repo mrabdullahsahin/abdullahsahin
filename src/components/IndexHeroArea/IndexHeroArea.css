@@ -97,7 +97,7 @@ a {
   cursor: pointer;
 }
   
-  @media (max-width: 640px) {
+@media (max-width: 640px) {
     .Hero .Logos {
       grid-template-columns: repeat(2, 1fr);
     }
