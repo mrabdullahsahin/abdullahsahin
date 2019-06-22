@@ -1,0 +1,32 @@
+.LatestPost {
+    max-width: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    align-items: center;
+    
+}
+
+.LatestPost h1 {
+    text-align: justify;
+    font-size: 30px;
+    color: white;
+}
+
+.LatestPost p {
+    text-align: right;
+    font-size: 20px;
+    color: white;
+}
+
+@media (max-width: 640px) {
+    .LatestPost h1 {
+        font-size: 20px;
+  }
+}
+
+@media (max-width: 640px) {
+    .LatestPost p {
+        font-size: 15px;
+    }
+}

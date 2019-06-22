@@ -12,93 +12,7 @@ a {
     font-weight: 600;
 }
 
-.Description {
-    background: url('../images/wallpaper.jpg');
-    height: 920px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-}
-
-.DescriptionGroup {
-    margin: 0 auto;
-    max-width: 500px;
-    padding: 150px 50px;
-    text-align: center;
-}
-
-.Description .profile {
-    border-radius: 50%;
-    max-width: 100%;
-    height: 200px;
-    width: 200px;
-    margin: auto;
-}
-
-.Description h1 {
-    margin: 0;
-    color: white;
-    font-size: 30px;
-    line-height: 1.2;
-    opacity: 0;
-    animation: DescriptionAnimation 3s 0.1s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
-}
-
-.Description p {
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 25px;
-    line-height: 1.5;
-    opacity: 0;
-    animation: DescriptionAnimation 3s 0.4s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
-}
-
-@media (max-width: 640px) {
-    .HeroGroup {
-        padding: 100px 20px;
-    }
-
-    .Hero h1 {
-        font-size: 20px;
-    }
-
-    .Hero p {
-        font-size: 20px;
-    }
-}
-
-@keyframes DescriptionAnimation {
-    0% {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-
-    100%{
-        opacity: 1;
-        transform: translateY(0px);
-    }
-}
-
-.Description svg {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-}
-
-.Description .Logos{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 10px;
-    margin: 100px 0;
-    justify-items: center;
-  }
-  
-  @media (max-width: 640px) {
-    .Description .Logos {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
-
-  .Logs h2 {
+.Logs h2 {
       margin: 50px 20px;
       font-size: 60px;
       text-align: center;
@@ -107,16 +21,44 @@ a {
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: transparent;
-  }
+}
 
-  @media (max-width: 640px) {
+@media (max-width: 640px) {
       .Logs h2 {
           font-size: 30px;
-      }
-  }
+    }
+}
 
-  .Logs .MakerLog {
+.Logs .MakerLog {
     display: grid;
     margin: 100px 0;
     justify-items: center;
+}
+
+.Posts {
+    background-color: #1d1e26;
+}
+
+.Posts h2 {
+    margin: 50px 20px;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+    background: linear-gradient(104.74deg, #F0F3F6 0%,#4A548C 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 640px) {
+    .Posts h2 {
+        font-size: 30px;
   }
+}
+
+.Posts hr {
+    max-width: 800px;
+    color: rgba(255, 255, 255, 0.1);
+    /* color: white; */
+    /* color: rgba(33, 44, 79, 0.4); */
+}
