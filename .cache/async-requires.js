@@ -6,6 +6,6 @@ exports.components = {
   "component---src-pages-404-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
   "component---src-pages-index-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
   "component---src-pages-page-2-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/page-2.js" /* webpackChunkName: "component---src-pages-page-2-js" */),
-  "component---src-pages-yearly-goal-page-yearlygoal-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/Yearly Goal Page/yearlygoal.js" /* webpackChunkName: "component---src-pages-yearly-goal-page-yearlygoal-js" */)
+  "component---src-pages-yearlygoal-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/yearlygoal.js" /* webpackChunkName: "component---src-pages-yearlygoal-js" */)
 }
 
