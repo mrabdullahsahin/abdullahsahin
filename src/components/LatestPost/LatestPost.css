@@ -1,4 +1,4 @@
-.LatestPost {
+.Post {
     max-width: 800px;
     margin: 0 auto;
     display: grid;
@@ -6,26 +6,54 @@
     align-items: center;
 }
 
-.LatestPost h1 {
+.Post h1 {
     text-align: justify;
     font-size: 30px;
     color: white;
 }
 
-.LatestPost p {
+.Post p {
     text-align: right;
     font-size: 20px;
     color: white;
 }
 
 @media (max-width: 640px) {
-    .LatestPost h1 {
+    .Post h1 {
         font-size: 20px;
   }
 }
 
 @media (max-width: 640px) {
-    .LatestPost p {
+    .Post p {
         font-size: 15px;
     }
+}
+
+.Posts {
+    background-color: #1d1e26;
+}
+
+.Posts h2 {
+    margin: 50px 20px;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+    background: linear-gradient(104.74deg, #F0F3F6 0%,#4A548C 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 640px) {
+    .Posts h2 {
+        font-size: 30px;
+  }
+}
+
+.Posts hr {
+    max-width: 800px;
+    color: rgba(255, 255, 255, 0.1);
+    /* color: white; */
+    /* color: rgba(33, 44, 79, 0.4); */
 }

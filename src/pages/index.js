@@ -18,19 +18,8 @@ const IndexPage = () => (
       </div>
     </div>
 
-    <div className="Posts">
-      <h2> Latest Post </h2>
-      <div className="PostsGroup">
-        <LatestPost
-          title="My Test Post"
-          date="Jun 22, 2019"/>
-          <hr/>
-        <LatestPost
-          title="My Test Post"
-          date="Jun 22, 2019"/>
-      </div>
-    </div>
-
+    <LatestPost/>
+    
     <Footer/>
 
     <SEO title="Home"/>
