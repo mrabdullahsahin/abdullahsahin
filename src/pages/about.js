@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import "./yearlygoal.css"
+import "./about.css"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -11,7 +11,7 @@ const About = () => (
     <Layout>
         <HeroArea/>
         <SEO title="About"/>
-        
+
         <Footer/>
     </Layout>
 )
