@@ -6,17 +6,23 @@ import './Card.css'
 class Card extends React.Component {
     render () {
         return(
+            <div className="CardHeader">
+                <h2> 1 startup, more coming </h2>
+                
+                <div className="CardGroup">
 
-            <div className="CardGroup">
-                <div className="Card">
-                    <image src='../../images/abdullahsahin.jpg'/>
-                    <h3> Product Name </h3>
-                    <p> Product Description </p>
-                    <div className="Revenue">
-                        <p> $30, 416 / Mon </p>
-                    </div>
+                    <Link to="/" className="Card">
+                        <h1>Nomad Startup</h1>
+                        <h3>$30, 416</h3>
+                        <p>in May 2019</p>
+                    </Link>
+
                 </div>
+
+
             </div>
         )
     }
 }
+
+export default Card
