@@ -12,6 +12,7 @@ exports.components = {
   "component---src-pages-index-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/index.js"))),
   "component---src-pages-openstartup-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/openstartup.js"))),
   "component---src-pages-page-2-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/page-2.js"))),
-  "component---src-pages-yearlygoal-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/yearlygoal.js")))
+  "component---src-pages-yearlygoal-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/yearlygoal.js"))),
+  "component---src-pages-comingsoonpage-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/comingsoonpage.js")))
 }
 
