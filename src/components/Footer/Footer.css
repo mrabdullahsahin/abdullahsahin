@@ -1,3 +1,12 @@
+.Footer p {
+    text-align: center;
+    margin-bottom: 25px;
+    background: rgba(0, 0, 0, 0) linear-gradient(104.74deg, rgb(32, 82, 132) 0%, rgb(32, 82, 132) 100%) repeat scroll 0% 0% padding-box text;
+    -webkit-text-fill-color: transparent;
+    font-size: 18px;
+    font-weight: 400;
+}
+
 .Menu a {
     text-decoration: none;
     font-size: 20px;
