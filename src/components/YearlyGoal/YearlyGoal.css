@@ -1,0 +1,65 @@
+.GoalTable {
+    display: grid;
+    justify-items: center;
+    text-align: left;
+}
+
+.GoalTable h1 {
+    margin: 50px 20px;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+    background: linear-gradient(104.74deg, #050A27 0%,#4A548C 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 640px) {
+    .GoalTable h1 {
+        font-size: 30px;
+  }
+}
+
+.GoalTable { 
+    border-collapse:collapse;
+    color:#000;
+    font-size:18px; 
+}
+.GoalTable th { 
+    background-color:#212C4F;
+    color: white;
+    width:50%;
+    text-align: center;
+}
+.GoalTable td, .GoalTable th { 
+    padding:5px;
+    border:0; 
+}
+.GoalTable td { 
+    border-bottom:1px solid rgba(33, 44, 79, 0.2);
+}
+
+.GoalTable th:first-child {
+    padding-left: 0;
+}
+
+.GoalTable td:first-child {
+    font-weight: bold;
+    padding-left: 0px;
+}
+
+.GoalTable td:nth-child(2) {
+    font-weight: lighter;
+    text-align: center;
+}
+
+@media (max-width: 640px) {
+    .GoalTable th {
+        font-size: 20px;
+  }
+
+  .GoalTable td {
+    font-size: 15px;
+  }
+}
