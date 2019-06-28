@@ -1,4 +1,6 @@
 import React from "react"
+import { Link } from "gatsby"
+
 import './LatestPost.css'
 
 class LatestPost extends React.Component {
@@ -7,15 +9,15 @@ class LatestPost extends React.Component {
             <div className="Posts">
                 <h2> Latest Post </h2>
                 <div className="PostsGroup">
-                    <div className="Post">
+                    <Link to="/" className="Post">
                         <h1> My Test Post </h1>
                         <p> Jun 22, 2019 </p>
-                    </div>
+                    </Link>
                     <hr/>
-                    <div className="Post">
+                    <Link to="/" className="Post">
                         <h1> My Post </h1>
                         <p> Jun 21, 2019 </p>
-                    </div>
+                    </Link>
                 </div>
           </div>
         )
