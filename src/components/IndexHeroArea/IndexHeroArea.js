@@ -1,5 +1,7 @@
 import React from "react"
+
 import "./IndexHeroArea.css"
+import Emoji from "../Emoji"
 
 class HeroArea extends React.Component {
     render() {
@@ -7,8 +9,8 @@ class HeroArea extends React.Component {
         <div className="Hero">
             <div className="HeroGroup">
                 <img className="Profile" src={require('../../images/abdullahsahin.jpg')} />
-                <h1> 👋 Hi! I'm Abdullah </h1>
-                <p> 🛠 Indie Maker from 🇹🇷 living in 🕌 Konya </p>
+                <h1> <Emoji symbol="👋" label="Waving Hand"/> Hi! I'm Abdullah </h1>
+                <p> 🛠 Indie Maker from <Emoji symbol="🇹🇷" label="Flag: Turkey"/> living in <Emoji symbol="🕌" label="Mosque"/> Konya </p>
 
                 <div className="Logos">
                     <a href="#" target="blank"><img src={require('../../images/linkedin.png')} width="50" /></a>

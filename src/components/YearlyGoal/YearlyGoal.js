@@ -1,5 +1,6 @@
 import React from 'react'
 
+import Emoji from '../Emoji'
 import './YearlyGoal.css'
 
 class YearlyGoal extends React.Component {
@@ -14,19 +15,19 @@ class YearlyGoal extends React.Component {
                     </thead>
                     <tbody>
                         <tr>
-                            <td>🚀 Launch Products</td>
+                            <td><Emoji symbol="🚀" label="Rocket"/> Launch Products</td>
                             <td>3/4</td>
                         </tr>
                         <tr>
-                            <td>📚 Books per year</td>
+                            <td><Emoji symbol="📚" label="Books"/> Books per year</td>
                             <td>10/15</td>
                         </tr>
                         <tr>
-                            <td>💰 Earn $1k / month</td>
+                            <td><Emoji symbol="💰" label="Money Bag"/> Earn $1k / month</td>
                             <td>82%</td>
                         </tr>
                         <tr>
-                            <td>📝 Publish on blog</td>
+                            <td><Emoji symbol="📝" label="Memo"/> Publish on blog</td>
                             <td>10/15</td>
                         </tr>
                     </tbody>
