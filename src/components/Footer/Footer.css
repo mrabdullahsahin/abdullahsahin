@@ -16,6 +16,8 @@
 
 .Menu a:hover {
     color: black;
+    transform: scale(1.2);
+    cursor: pointer;
 }
 
 .FooterGroup {
