@@ -4,6 +4,12 @@
     display: grid;
     grid-template-columns: repeat(2, auto);
     align-items: center;
+    transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+}
+
+.Post:hover {
+    transform: scale(1.1);
+    cursor: pointer;
 }
 
 .Post h1 {
