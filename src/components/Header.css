@@ -20,7 +20,7 @@
     justify-items: center;
 }
 
-.Header a {
+.HeaderGroup a {
     font-size: 20px;
     padding: 8px 20px;
     border-radius: 10px;
@@ -31,7 +31,7 @@
     text-rendering: optimizelegibility;
 }
 
-.Header a:hover {
+.HeaderGroup a:hover {
     background: white none repeat scroll 0% 0%;
     color: black;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 20px 40px;
@@ -45,5 +45,13 @@
 
     .HeaderGroup {
         grid-template-columns: repeat(4, auto);
+    }
+
+    .HeaderGroup a {
+        font-size: 10px;
+    }
+
+    .HeaderGroup a:nth-child(4){
+        display: none;
     }
 }
