@@ -11,7 +11,7 @@ class Card extends React.Component {
                 
                 <div className="CardGroup">
 
-                    <Link to="/" className="Card">
+                    <Link to="/comingsoonpage" className="Card">
                         <h1>Nomad Startup</h1>
                         <h3>$30, 416</h3>
                         <p>in May 2019</p>
