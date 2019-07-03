@@ -8,7 +8,7 @@ import {Line} from 'react-chartjs-2'
 import styled from 'styled-components'
 import Emoji from '../components/Emoji'
 
-const data = {
+const revenueData = {
     labels: ['Mar 18','Apr 18','May 18','Jun 18','Jul 18','Aug 18','Sep 18','Oct 18','Nov 18','Dec 18','Jan 19','Feb 19','Mar 19','Apr 19','May 19'],
     datasets: [
       {
@@ -35,6 +35,33 @@ const data = {
     ]
 };
 
+const customerData = {
+  labels: ['Mar 18','Apr 18','May 18','Jun 18','Jul 18','Aug 18','Sep 18','Oct 18','Nov 18','Dec 18','Jan 19','Feb 19','Mar 19','Apr 19','May 19'],
+  datasets: [
+    {
+      label: 'Gross Total Revenue',
+      fill: true,
+      lineTension: 0.4,
+      backgroundColor: 'rgba(33,44,79,1)',
+      borderColor: 'rgba(33,44,79,1)',
+      borderCapStyle: 'square',
+      borderDash: [],
+      borderDashOffset: 0.0,
+      borderJoinStyle: 'round',
+      pointBorderColor: 'rgba(255,255,255,1)',
+      pointBackgroundColor: '#fff',
+      pointBorderWidth: 10,
+      pointHoverRadius: 5,
+      pointHoverBackgroundColor: 'rgba(0,0,0,1)',
+      pointHoverBorderColor: 'rgba(220,220,220,1)',
+      pointHoverBorderWidth: 2,
+      pointRadius: 1,
+      pointHitRadius: 10,
+      data: [8,14,7,6,12,28,30,15,4,19,10,15,7,4,32]
+    }
+  ]
+};
+
 const options = {
     legend: {
         display: false,
@@ -45,8 +72,8 @@ const LineChart = styled.div`
   display: grid;
   justify-items: center;
   margin: auto;
-  width: 75%;
-  height: 75%;
+  width: 85%;
+  height: 85%;
 `
 
 const StartupName = styled.h1`
@@ -64,7 +91,7 @@ const StartupName = styled.h1`
 `
 
 const TextArea = styled.h2`
-  margin: 15px 15px;
+  margin: 35px 35px;
   justify-items: left;
   font-size: 25px;
   width: 85%;
@@ -84,7 +111,12 @@ const ComingSoon = () => (
           <StartupName>Open Startup</StartupName>
           <TextArea>Revenue <Emoji symbol="💰" label="Money Bag"/></TextArea>
           <Line 
-              data={data} 
+              data={revenueData} 
+              options = {options}
+            />
+          <TextArea>Customers <Emoji symbol="💼" label="Briefcase"/></TextArea>
+          <Line 
+              data={customerData} 
               options = {options}
             />
         </LineChart>
