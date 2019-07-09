@@ -9,21 +9,16 @@ import Head from "../components/Head"
 
 const IndexPage = () => (
   <Layout>
-    <Head title="Home"/>
+    <SEO title="Home"/>
     <HeroArea/>
-
     <div className="Logs">
       <h2>My Logs</h2>
       <div className="MakerLog">
         <iframe title="Makerlog Embed" height="300" width="50%" align="middle" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/2864/embed"></iframe>
       </div>
     </div>
-
     <LatestPost/>
-    
     <Footer/>
-
-    <SEO title="Home"/>
   </Layout>
 )
 
