@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroArea from "../components/IndexHeroArea/IndexHeroArea"
 import Footer from "../components/Footer/Footer"
+import Head from "../components/Head"
 
 const ContactArea = styled.div`
     display: grid;
@@ -38,6 +39,7 @@ const ContactText = styled.p`
 
 const Contact = () => (
     <Layout>
+        <Head title="Contact"/>
         <HeroArea/>
         <SEO title="Contact"/>
 
