@@ -5,9 +5,11 @@ import Layout from "../components/layout"
 import HeroArea from "../components/IndexHeroArea/IndexHeroArea"
 import LatestPost from "../components/LatestPost/LatestPost"
 import Footer from "../components/Footer/Footer"
+import Head from "../components/Head"
 
 const IndexPage = () => (
   <Layout>
+    <Head/>
     <HeroArea/>
 
     <div className="Logs">
