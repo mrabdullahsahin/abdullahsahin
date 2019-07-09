@@ -9,7 +9,7 @@ import Head from "../components/Head"
 
 const IndexPage = () => (
   <Layout>
-    <Head/>
+    <Head title="Home"/>
     <HeroArea/>
 
     <div className="Logs">
