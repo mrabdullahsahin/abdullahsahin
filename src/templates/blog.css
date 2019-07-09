@@ -1,0 +1,83 @@
+a {
+    color: #5334f5;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.PostHeader {
+    background: url('../images/wallpaper.jpg');
+    height: 920px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.PostHeaderGroup {
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 150px 50px;
+    text-align: center;
+}
+
+.PostHeader .PostHeaderGroup h1 {
+    margin: 0;
+    color: white;
+    font-size: 55px;
+    line-height: 1.2;
+    opacity: 0;
+    animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+    margin-top: 50%;
+}
+
+.PostHeader .PostHeaderGroup p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 25px;
+    line-height: 1.5;
+    opacity: 0;
+    animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.8, 0.8, 0.2, 1);
+}
+
+@media (max-width: 640px) {
+    .PostHeader .PostHeaderGroup {
+      padding: 100px 20px;
+    }
+  
+    .PostHeader .PostHeaderGroup h1 {
+      font-size: 20px;
+    }
+  
+    .PostHeader .PostHeaderGroup p {
+      font-size: 20px;
+    }
+  }
+
+@keyframes HeroAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+  
+    100% {
+      opacity: 100;
+      transform: translateY(0px);
+    }
+}
+
+.PostHeader svg {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.PostArea {
+    display: grid;
+    margin: auto;
+    width: 80%;
+    text-align: justify;
+}
+
+@media (max-width: 640px) {
+    .PostArea {
+        font-size: 20px;
+    }
+}
