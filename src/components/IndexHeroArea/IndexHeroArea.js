@@ -8,7 +8,7 @@ class HeroArea extends React.Component {
         return (
         <div className="Hero">
             <div className="HeroGroup">
-                <img className="Profile" src={require('../../images/abdullahsahin.jpg')} />
+                <img className="Profile" alt="Abdullah Sahin" src={require('../../images/abdullahsahin.jpg')} />
                 <h1> <Emoji symbol="👋" label="Waving Hand"/> Hi! I'm Abdullah </h1>
                 <p> 🛠 Indie Maker from <Emoji symbol="🇹🇷" label="Flag: Turkey"/> living in <Emoji symbol="🕌" label="Mosque"/> Konya </p>
 
