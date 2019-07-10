@@ -13,10 +13,10 @@ class HeroArea extends React.Component {
                 <p> 🛠 Indie Maker from <Emoji symbol="🇹🇷" label="Flag: Turkey"/> living in <Emoji symbol="🕌" label="Mosque"/> Konya </p>
 
                 <div className="Logos">
-                    <a href="#" target="blank"><img src={require('../../images/linkedin.png')} width="50" /></a>
-                    <a href="#" target="blank"><img src={require('../../images/github.png')} width="50" /></a>
-                    <a href="#" target="blank"><img src={require('../../images/twitter.png')} width="50" /></a>
-                    <a href="#" target="blank"><img src={require('../../images/instagram.png')} width="50" /></a>
+                    <a href="#" target="blank"><img src={require('../../images/linkedin.png')} alt="Abdullah Sahin Linkedin" width="50" /></a>
+                    <a href="#" target="blank"><img src={require('../../images/github.png')} alt="Abdullah Sahin Github" width="50" /></a>
+                    <a href="#" target="blank"><img src={require('../../images/twitter.png')} alt="Abdullah Sahin Twitter" width="50" /></a>
+                    <a href="#" target="blank"><img src={require('../../images/instagram.png')} alt="Abdullah Sahin Instagram" width="50" /></a>
                 </div>
 
                 <svg width="100%" height="172" fill="none" xmlns="http://www.w3.org/2000/svg">
