@@ -10,6 +10,12 @@ a {
     color: #7B42F6;
     text-decoration: none;
     font-weight: 600;
+    transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+}
+
+a:hover {
+    color: black;
+    cursor: pointer;
 }
 
 .Logs h2 {

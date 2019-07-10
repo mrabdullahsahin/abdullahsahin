@@ -44,15 +44,21 @@ const About = () => (
         <AboutArea>
             <AboutTitle>About</AboutTitle>
             <AboutText>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed egestas libero, et molestie nisl. In eget orci in est ornare placerat eget a orci. Suspendisse vestibulum tortor quis libero commodo, vel auctor justo tempor. Sed nec sapien rhoncus, vehicula velit a, euismod est. Phasellus dignissim mauris non mi tincidunt, sit amet gravida eros feugiat. Proin sodales tempus nisi in interdum. In in diam vel diam dapibus laoreet. In in quam posuere, porttitor nunc sit amet, consequat metus. Cras at feugiat mi, sed suscipit nisi.
+                Hi, I'm Abdullah from Turkey. I'm a software engineer, digital craftsman and indie maker. If you wondering about my projects and me, You can contact me with the social accounts below.
 
-                Cras quis arcu ut tortor imperdiet fermentum. Curabitur sit amet ipsum id ex luctus lobortis vitae quis lacus. Nulla nec turpis dignissim, bibendum tortor eget, viverra sem. Nullam eu eros quis erat dapibus tempus. Maecenas convallis pretium enim, a malesuada felis. Duis ut scelerisque erat, eget egestas quam. Vestibulum id interdum massa.
+                <ul>
+                    <li> <a href="https://github.com/mrabdullahsahin"> Github </a> </li>
+                    <li> <a href="https://www.linkedin.com/in/mrabdullahsahin/"> Linkedin </a></li>
+                    <li> <a href="https://twitter.com/mrabdullahsahin"> Twitter </a></li>
+                    <li> <a href="https://www.instagram.com/mrabdullahsahin/"> Instagram </a></li>
+                    <li> <a href="https://www.goodreads.com/user/show/78190102-abdullah"> Goodreads </a></li>
+                    <li> <a href="https://dribbble.com/abdullahsahin"> Dribbble </a></li>
+                    <li> <a href="https://www.behance.net/abdullahsaf7fe/"> Behance </a></li>
+                    <li> <a href="https://getmakerlog.com/@abdullahsahin"> Makerlog </a></li>
+                    <li> <a href="https://medium.com/@abdullahsahin"> Medium </a></li>
+                    <li> <a href="https://www.kaggle.com/abdullahsahin"> Kaggle </a></li>
+                </ul>
 
-                Mauris lacus massa, eleifend ut risus eget, accumsan dapibus erat. Etiam pulvinar sollicitudin neque, vulputate ultricies magna dignissim vitae. Maecenas hendrerit nibh tellus, id maximus metus malesuada sed. Duis lacus sem, gravida id nibh vitae, euismod efficitur dolor. Phasellus gravida mattis risus, in ultricies mi consequat nec. Integer posuere laoreet neque et rutrum. Mauris volutpat cursus accumsan. Suspendisse varius dolor in purus maximus convallis. Etiam varius, neque lobortis tincidunt commodo, arcu sem congue est, sed egestas mauris massa et metus. Donec neque risus, mattis id tincidunt eget, dapibus et velit. Sed sed libero suscipit, tempus lorem nec, posuere nibh.
-
-                Sed mattis est eu finibus pharetra. Suspendisse pulvinar suscipit odio, vitae molestie lacus dignissim at. Proin tristique, mi in sagittis efficitur, felis augue blandit velit, vitae tempus tellus massa et dui. Quisque tincidunt turpis ligula, at vulputate dui molestie vitae. Nunc ullamcorper, erat pellentesque sodales mollis, massa odio gravida lectus, quis hendrerit turpis augue efficitur lorem. Vivamus nec dignissim risus. Nulla facilisi. Sed scelerisque arcu velit. Mauris volutpat mauris non nibh feugiat, quis fringilla mauris consectetur.
-
-                Sed sagittis quam sit amet sem hendrerit hendrerit. Vivamus sit amet lacus sit amet eros consequat sodales. Sed sed purus euismod, suscipit ante et, ultricies ligula. Proin eget turpis nec dolor laoreet maximus. Nunc rhoncus suscipit consectetur. Aliquam a massa et orci iaculis elementum. Donec vestibulum pharetra bibendum. Phasellus aliquet vestibulum venenatis. Duis faucibus porta iaculis. 
             </AboutText>
         </AboutArea>
 
