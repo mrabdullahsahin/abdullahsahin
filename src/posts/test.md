@@ -1,6 +1,6 @@
 ---
 title: "Test Post"
-date: "2019-04-04"
+date: "May 10, 2019"
 ---
 
 I just launched a new post.
