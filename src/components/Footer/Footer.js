@@ -11,18 +11,17 @@ class Footer extends React.Component {
                 <div className="FooterGroup">
                     <div className="Menu">
                         <h1>Home</h1>
-                        <Link to="/page-2/">About</Link>
-                        <Link to="/page-2/">Contact</Link>
+                        <Link to="/about">About</Link>
                     </div>
 
                     <div className="Menu">
                         <h1>Resources</h1>
-                        <Link to="/page-2/">Downloads</Link>
-                        <Link to="/page-2/">Post</Link>
+                        <Link to="/yearlygoal">Yearly Goal</Link>
+                        <Link to="/openstartup">Open Startup</Link>
                     </div>
 
                     <div className="Menu">
-                        <h1>Company</h1>
+                        <h1>Other</h1>
                         <Link to="/page-2/">Terms of Service</Link>
                         <Link to="/page-2/">Privacy Policy</Link>
                     </div>
