@@ -2,6 +2,7 @@ import React from "react"
 import { graphql, useStaticQuery, Link } from "gatsby"
 
 import './LatestPost.css'
+import Emoji from "../Emoji"
 
 const LatestPost = () => {
     const data = useStaticQuery(graphql`
@@ -25,6 +26,11 @@ const LatestPost = () => {
     return (
         <div className="Posts">
             <h2> Latest Post </h2>
+
+            <div className="PostLang"> 
+                <h3><Emoji symbol="🇹🇷" label="Flag: Turkey"/> Turkish Post</h3>
+                <h3><Emoji symbol="🇺🇸" label="Flag: USA"/> English Post</h3>
+            </div>
             <div className="PostsGroup">
                 {data.allMarkdownRemark.edges.map((edge) => {
                         return(
