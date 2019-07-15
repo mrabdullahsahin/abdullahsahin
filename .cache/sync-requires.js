@@ -11,7 +11,6 @@ exports.components = {
   "component---src-pages-about-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/about.js"))),
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/blog.js"))),
   "component---src-pages-comingsoonpage-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/comingsoonpage.js"))),
-  "component---src-pages-contact-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/contact.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/index.js"))),
   "component---src-pages-openstartup-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/openstartup.js"))),
   "component---src-pages-yearlygoal-js": hot(preferDefault(require("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/yearlygoal.js")))
