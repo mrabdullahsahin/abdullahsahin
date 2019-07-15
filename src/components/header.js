@@ -33,7 +33,6 @@ class Header extends React.Component {
           <Link to="/yearlygoal">Yearly Goal</Link>
           <Link to="/openstartup">Open Startup</Link>
           <Link to="/about">About</Link>
-          <Link to="/contact">Contact</Link>
         </div>
       </div>
     )
