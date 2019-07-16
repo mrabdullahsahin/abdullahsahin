@@ -81,3 +81,24 @@ a {
         font-size: 20px;
     }
 }
+
+.Feedback {
+  max-width: 100%;
+}
+
+.Feedback hr {
+  max-width: 80%;
+  color: rgba(255, 255, 255, 1.0);
+}
+
+.Feedback p {
+  text-align: center;
+  font-size: 20px;
+  line-height: 1.0;
+}
+
+@media (max-width: 640px) {
+  .Feedback p {
+      font-size: 15px;
+  }
+}

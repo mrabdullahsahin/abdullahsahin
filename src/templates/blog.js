@@ -46,6 +46,12 @@ const Blog = (props) => {
             <div className="PostArea">
                 <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
             </div>
+
+            <div className="Feedback">
+                <hr></hr>
+                <p>If you have any questions or feedback, please feel free to share it with me on Twitter: <a href="https://www.twitter.com/mrabdullahsahin/" target="blank">@mrabdullahsahin</a></p>
+            </div>
+
             <Footer/>
         </Layout>
     )
