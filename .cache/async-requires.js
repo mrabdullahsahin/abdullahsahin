@@ -10,6 +10,7 @@ exports.components = {
   "component---src-pages-comingsoonpage-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/comingsoonpage.js" /* webpackChunkName: "component---src-pages-comingsoonpage-js" */),
   "component---src-pages-index-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
   "component---src-pages-openstartup-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/openstartup.js" /* webpackChunkName: "component---src-pages-openstartup-js" */),
-  "component---src-pages-yearlygoal-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/yearlygoal.js" /* webpackChunkName: "component---src-pages-yearlygoal-js" */)
+  "component---src-pages-yearlygoal-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/yearlygoal.js" /* webpackChunkName: "component---src-pages-yearlygoal-js" */),
+  "component---src-pages-terms-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/terms.js" /* webpackChunkName: "component---src-pages-terms-js" */)
 }
 
