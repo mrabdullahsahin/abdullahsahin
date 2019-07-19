@@ -28,13 +28,13 @@
 
 @media (max-width: 640px) {
     .Post h1 {
-        font-size: 20px;
+        font-size: 15px;
   }
 }
 
 @media (max-width: 640px) {
     .Post p {
-        font-size: 15px;
+        font-size: 10px;
     }
 }
 
