@@ -11,6 +11,7 @@ exports.components = {
   "component---src-pages-index-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
   "component---src-pages-openstartup-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/openstartup.js" /* webpackChunkName: "component---src-pages-openstartup-js" */),
   "component---src-pages-yearlygoal-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/yearlygoal.js" /* webpackChunkName: "component---src-pages-yearlygoal-js" */),
-  "component---src-pages-terms-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/terms.js" /* webpackChunkName: "component---src-pages-terms-js" */)
+  "component---src-pages-terms-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/terms.js" /* webpackChunkName: "component---src-pages-terms-js" */),
+  "component---src-pages-privacy-js": () => import("/Users/abdullah/Desktop/Github/mrabdullahsahin.github.io/src/pages/privacy.js" /* webpackChunkName: "component---src-pages-privacy-js" */)
 }
 
