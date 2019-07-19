@@ -123,7 +123,7 @@ const CardInformation = styled.div`
   cursor: pointer;
   position: relative;
   max-width: 100%;
-  height: 179px;
+  height: 125px;
   text-decoration: none;
 `
 
