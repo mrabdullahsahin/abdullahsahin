@@ -23,7 +23,7 @@ class Footer extends React.Component {
                     <div className="Menu">
                         <h1>Other</h1>
                         <Link to="/terms/">Terms of Service</Link>
-                        <Link to="/page-2/">Privacy Policy</Link>
+                        <Link to="/privacy/">Privacy Policy</Link>
                     </div>
                 </div>
                 <p>
