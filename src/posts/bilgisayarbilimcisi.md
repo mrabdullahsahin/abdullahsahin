@@ -120,4 +120,7 @@ Bilgisayar sektöründe kullanabileceğiniz ve faydalanabileceğinz birçok içe
 ## Medium Kaynakları
  - **[NSIstanbul](https://medium.com/nsistanbul):** Türkiye'de bulunan Apple geliştiricilerinin yayın yaptıkları blog.
 
+Saygı ve Sevgilerimle,
+Abdullah.
+
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen Twitter'da benimle paylaşmaktan çekinmeyin: **[@mrabdullahsahin](https://twitter.com/mrabdullahsahin)**
