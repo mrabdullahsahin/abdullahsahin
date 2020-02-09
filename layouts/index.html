@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+<body>
+	<div class="container wrapper">
+		{{ partial "head.html" . }}
+
+		<div class="recent-posts section">
+			<h2 class="section-header">
+				Recent posts
+			</h2>
+
+			<div class="PostLang"> 
+                <h3>🇹🇷 Turkish Post</h3>
+				<h3>🇺🇸 English Post</h3>
+            </div>
+
+			<div class="posts">
+				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+				{{ range $paginator.Pages }}
+				<div class="post">
+					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
+					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
+					<span class="description">
+						{{ if isset .Params "description" }}
+						{{ .Description }}
+						{{ else if gt (len .RawContent) 120 }}
+						{{ slicestr .RawContent 0 120 }}...
+						{{ else }}
+						{{ .RawContent }}
+						{{ end }}
+					</span>
+				</div>
+				{{ end }}
+				{{ template "partials/paginator.html" . }}
+			</div>
+		</div>
+	</div>
+	{{ partial "footer.html" . }}
+</body>
+</html>
