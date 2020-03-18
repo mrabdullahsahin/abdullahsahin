@@ -33,7 +33,7 @@ Bu programlar da eğer kendinizi yetiştirir ve ortalamanızı da yüksek tutars
 Üniversiteye geçince bazı insanlara rehavet çöker, oyun oynar, derslere son anda çalışır ve her şey sıkışır sonrada istediği gibi gitmez. Sizlere ders konusunda üç tavsiyem var;
  1. Derslerde kendi notunuzu tutun.
  2. Dersten çıktıktan sonra eve/yurda gidince zamanınız var ise oturup o günün tekrarını yapın.
- 3. Haftalık olarak tekrarlar yapın. Bu üç maddeyi uyguladığınız zaman hem dersleri sağlam götürmüş olacaksınız hem de güzel bir ortalamaya sahip olursunuz. Bu dediklerimin sizlere günlük saat karşılığı ise 2 veya 3 saat sizin anlama ve kavrama düzeyinize göre değişir. Haftalık tekrarın sizlere saat karşılığı ise 4–5 saat maksimum. (Yukarıda belirtmiş olduğum ders çalışma programını ben de uygulamadım daha farklı yöntemler ve sistemlerde test ettim. Uygulamadığım ve tecrübesini edinmediğim bir yöntemi yazmıyorum sizlere)
+ 3. Haftalık olarak tekrarlar yapın. Bu üç maddeyi uyguladığınız zaman hem dersleri sağlam götürmüş olacaksınız hem de güzel bir ortalamaya sahip olursunuz. Bu dediklerimin sizlere günlük saat karşılığı ise 2 veya 3 saat sizin anlama ve kavrama düzeyinize göre değişir. Haftalık tekrarın sizlere saat karşılığı ise 4–5 saat maksimum. (Yukarıda belirtmiş olduğum ders çalışma programını ben de uyguladım daha farklı yöntemler ve sistemlerde test ettim. Uygulamadığım ve tecrübesini edinmediğim bir yöntemi yazmıyorum sizlere.)
 
 ### **Elazığ Hakkında**
 İstanbul, Ankara, İzmir, Bursa ve Konya gibi büyük şehirlerden geliyorsanız eğer biraz hüsrana uğrayabilirsiniz çünkü küçük bir şehir ve bu şehirlere göre yapacak çok fazla bir etkinlik ve gidecek fazla bir yer bulamayabilirsiniz. Her şehrin kendine göre avantajı ve dezavantajı bulunmaktadır. Bu yüzden dolayı olaya iyi yönünden bakmak gerekir. Hatırlatmak istediğim de güzel bir husus var **iyi insan her yerde iyidir, kötü insan ise her yerde kötüdür**, her yerde olduğu gibi iyi insanlarda var kötü insanlarda var Elazığ'da, siz iyi olanlar ile beraber olmaya bakın.
@@ -95,7 +95,7 @@ Eksileri:
  - Bol bol pratik yapın bol bol kod yazın, algoritma anlamında, herhangi bir probleme çözüm üretme anlamında çok iyi olmaya çalışın. Çünkü üniversite de pratik yapmaz iseniz iş hayatında veya stajlarınızda zorlanırsınız.
  - Okulda niçin olduğunuzu hatırlayın siz orada okulunuzu bitirmek için varsınız okulunuzu en iyi şekilde bitirin ve ek olarak kendinizi yetiştirmeye bakın.
  - Üniversiteye girdiğiniz günden itibaren düzenli olarak ingilizce çalışın. Bol bol ingilizce hikayeler, kitaplar ve yazılar okuyun. Yolda gidip gelirken podcast'ler dinleyebilirsiniz.
- - Şunu demeyin asla; "Abi bu ders ne işimize yarayacak, gerçek hayatta bunlar kullanılmıyor ki" demeyin, siz dersten ne alabilirsiniz almaya bakın ve AA düşürün.
+ - Şunu demeyin asla; "Abi bu ders ne işimize yarayacak, gerçek hayatta bunlar kullanılmıyor ki" demeyin, siz dersten ne alabilirseniz almaya bakın ve AA düşürün.
  - Bazı arkadaşlar matematik ve türevi derslerde zorlanıyorlar ben de zorlanmıştım onlara şu şekilde bir tavsiye verebilirim, dersi AA düşürecek şekilde öğren ve daha sonra iş hayatında veya kod yazarken karşına çıkarsa öğrenmem gereken kısmı otur, çalışır, öğren, bilmediğin kısımlar karşına çıktıkça bu yöntemi tekrar et. Oturup sıfırdan matematik çalışmaya çalışma ben bunu bilmiyorum diye çünkü unutup gidersin.
  - Şunu da dememeni tavsiye ederim; "Şu okul bitse de kurtulsak, şu okul bitsin de bir ondan sonra önümüze bakarız." deme asla çünkü okul göz açıp kapatıncaya kadar bitiyor, benim bitiyor olduğu gibi.
  - UOLP programında yanlış bilmiyorsam şöyle bir durum ile de karşılaşabilirsiniz bunu da aklınızda bulundurun ona göre yol haritanızı belirleyin. Malum Amerika'ya vize almak kolay değil, vize vermeyebilirler.
@@ -103,14 +103,14 @@ Eksileri:
  - Kesinlikle ama kesinlikle blog tutmaya özen gösterin. Edindiğiniz tecrübeleri ve bilgileri başka insanlarla paylaşmaya çalışın. Staj yeri bulurken veya Yurt dışında yüksek lisans yapacağınız zaman bunun size çok fazla katkısı olur.
  - Gerek Türkiye'de gerekse Yurt dışında yüksek lisans ve doktora yapıp üniversite'de olabileceğinizde aklınızda bulunsun.
 
-**Yazmış olduklarım umarım sizlere faydalı olmuştur. Sorularınız olursa istediğiniz soruyu sorabilirsiniz fakat soru sorarken biraz mantıklı sorular sormaya özen gösterelim. Mesala abi masaüstü programlama ölür mü gibi bir soru sorma mesela :D**
+**Yazmış olduklarım umarım sizlere faydalı olmuştur. Sorularınız olursa istediğiniz soruyu sorabilirsiniz fakat soru sorarken biraz mantıklı sorular sormaya özen gösterelim. Mesala abi masaüstü programlama ölür mü gibi bir soru sorma :D**
 
 ## Şu maddeleri de her daim aklınız da bulundurmanızı tavsiye ederim;
   - Karar vermek emek vermekten çok ama çok önemli.
 
  - Herhangi bir şey yaparken bu yaptığınızın sizlere 5 veya 10 yıl sonra dönüşü ne olacak bunu en iyi şekilde irdeleyin.
 
- - Bir şey yapmadan önce sizden daha tecrübeli ve tecrübesi çok olmasa da insanlarla istişare edin daha sonra içinizde ölçüp, biçip tartıp kararınızı verirsiniz.
+ - Bir şey yapmadan önce sizden daha tecrübeli ve tecrübesi çok olmasa da insanlarla istişare edin daha sonra içinizde ölçüp, biçip, tartıp kararınızı verirsiniz.
 
  - Bir süreç hakkında ne kadar çok faydalı bilgiye sahip olursanız sürece o kadar hâkim olursunuz.
 
