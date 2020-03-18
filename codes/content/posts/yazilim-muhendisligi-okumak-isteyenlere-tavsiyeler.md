@@ -58,6 +58,7 @@ Yurt masrafları aylık ortalama 180₺ ile 700₺ arasında değişmektedir.
 Artıları:
   - Ev arkadaşınız iyi ise sıkıntı yok.
   - Yemek yapma, temizlik gibi işlerle ilgilenirim derseniz yine sıkıntı yok.
+  
 Eksileri:
   - Ev kiraları ortalama olarak 500₺ ila 650₺ civarında değişmektedir.
   - Ev arkadaşların iyi olduğu sürece sıkıntı olmaz yoksa büyük problem.
