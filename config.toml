@@ -1,4 +1,4 @@
-baseURL = "https://abdullahsahin.org"
+baseURL = "https://mrabdullahsahin.github.io/"
 title = "Abdullah Sahin"
 paginate = 5
 theme = "PaperMod"
@@ -17,7 +17,7 @@ home = [ "HTML", "RSS", "JSON" ]
 [params]
 env = "production"
 title = "Abdullah Sahin"
-description = "Abdullah Sahin - Digital Crasftman"
+description = "Abdullah Sahin"
 author = "Abdullah"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 defaultTheme = "auto"
@@ -42,7 +42,7 @@ tocopen = false
   [params.profileMode]
   enabled = false
   title = "Abdullah Sahin"
-  subtitle = "This is subtitle"
+  subtitle = "Abdullah Sahin"
   imageUrl = "<img location>"
   imageWidth = 120
   imageHeight = 120
@@ -81,11 +81,9 @@ tocopen = false
   hiddenInList = true
   hiddenInSingle = true
   image = "<image path/url>"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   alt = "<alt text>"
   caption = "<text>"
-  relative = false # To use relative path for cover image, used in hugo Page-bundles
+  relative = false
   linkFullImages = true
 
   [params.fuseOpts]
@@ -98,25 +96,19 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 10
-
-[[menu.main]]
 identifier = "tags"
-name = "tags"
+name = "Tags"
 url = "/tags/"
-weight = 20
+weight = 10
 
 [[menu.main]]
 identifier = "archives"
 name = "Archive"
 url = "/archive/"
-weight = 30
+weight = 20
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 40
+weight = 30
