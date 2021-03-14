@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mrabdullahsahin.github.io/sitemap.xml
