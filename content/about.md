@@ -9,7 +9,7 @@ Hi,
 
 My name is **Abdullah** and I'm a Software Engineer, Digital Craftsman and Indie Maker. I’m mainly interested in **SaaS**, **UI**, **UX**, **Python**! Here, in my personal website you’ll find my musings and thoughts about random topics. Some of the my social media accounts:
 
-- [Gituhb](https://github.com/mrabdullahsahin)
+- [Github](https://github.com/mrabdullahsahin)
 - [Linkedin](https://www.linkedin.com/in/mrabdullahsahin/)
 - [Twitter](https://twitter.com/mrabdullahsahin)
 - [Instagram](https://www.instagram.com/mrabdullahsahin/)
