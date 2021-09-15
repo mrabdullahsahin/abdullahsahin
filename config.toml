@@ -62,7 +62,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my blog"
+  Content = "MicroStartup & Product Maker. Maker of [fikrinhayati.com](https://fikrinhayati.com/) & [pratikyapayzeka.com](https://pratikyapayzeka.com) & [producthuntturkey](https://producthuntturkey.netlify.app/). Moderator of [sdtr.dev](https://sdtr.dev), Editor of [Wikipedia](https://tr.wikipedia.org/wiki/Anasayfa)"
 
   [[params.socialIcons]]
   name = "twitter"
