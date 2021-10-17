@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Abdullah Sahin</title>
+    <link>https://mrabdullahsahin.github.io/projects/</link>
+    <description>Recent content in Projects on Abdullah Sahin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mrabdullahsahin.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product Hunt Turkey</title>
+      <link>https://mrabdullahsahin.github.io/projects/product-hunt-turkey/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrabdullahsahin.github.io/projects/product-hunt-turkey/</guid>
+      <description>An Open Community for all Turkey Makers, Startups.</description>
+    </item>
+    
+    <item>
+      <title>Pratik Yapay Zeka</title>
+      <link>https://mrabdullahsahin.github.io/projects/pratik-yapay-zeka/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrabdullahsahin.github.io/projects/pratik-yapay-zeka/</guid>
+      <description>Pratik Yapay Zeka(Practical Artificial Intelligence) is a project created for everyone who wants to improve themselves in artificial intelligence technologies, who wants to share their knowledge and experience with others, who enjoys adding value, producing and sharing.</description>
+    </item>
+    
+    <item>
+      <title>Fikrin Hayatı</title>
+      <link>https://mrabdullahsahin.github.io/projects/fikrin-hayati/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrabdullahsahin.github.io/projects/fikrin-hayati/</guid>
+      <description>Fikrin Hayati is a project that shares the development processes of ideas, projects and applications with entrepreneurs.</description>
+    </item>
+    
+  </channel>
+</rss>
