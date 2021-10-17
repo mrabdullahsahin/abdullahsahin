@@ -1,6 +1,6 @@
 baseURL = "https://mrabdullahsahin.github.io/"
 title = "Abdullah Sahin"
-paginate = 5
+paginate = 99
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
@@ -29,7 +29,7 @@ ShowBreadCrumbs = true
 disableSpecial1stPost = false
 comments = false
 hidemeta = false
-showtoc = false
+showtoc = true
 tocopen = false
 
   [params.assets]
@@ -40,25 +40,25 @@ tocopen = false
   safari_pinned_tab = "<link / abs url>"
 
   [params.profileMode]
-  enabled = false
+  enabled = true
   title = "Abdullah Sahin"
-  subtitle = "Abdullah Sahin"
-  imageUrl = "<img location>"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "my image"
+  #subtitle = "Abdullah Sahin"
+  imageUrl = "img/abdullahsahin.png"
+  imageWidth = 250
+  imageHeight = 250
+  imageTitle = "Abdullah Sahin"
 
     [[params.profileMode.buttons]]
     name = "Posts"
     url = "posts"
 
     [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
+    name = "Monthly Updates"
+    url = "monthly-updates"
 
     [[params.profileMode.buttons]]
-    name = "Archives"
-    url = "archives"
+    name = "Projects"
+    url = "projects"
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
@@ -96,19 +96,37 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "montlyupdates"
+name = "Monthly Updates"
+url = "/monthly-updates/"
+weight = 20
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 30
+
+[[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 10
+weight = 40
 
 [[menu.main]]
 identifier = "archives"
 name = "Archive"
 url = "/archive/"
-weight = 20
+weight = 50
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 30
+weight = 60
