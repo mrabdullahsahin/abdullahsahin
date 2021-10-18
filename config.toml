@@ -60,6 +60,14 @@ tocopen = false
     name = "Projects"
     url = "projects"
 
+    [[params.profileMode.buttons]]
+    name = "Archive"
+    url = "archive"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
   [params.homeInfoParams]
   Title = "Hi there 👋"
   Content = "MicroStartup & Product Maker. Maker of [fikrinhayati.com](https://fikrinhayati.com/) & [pratikyapayzeka.com](https://pratikyapayzeka.com) & [producthuntturkey](https://producthuntturkey.netlify.app/). Moderator of [sdtr.dev](https://sdtr.dev), Editor of [Wikipedia](https://tr.wikipedia.org/wiki/Anasayfa)"
@@ -114,19 +122,7 @@ url = "/projects/"
 weight = 30
 
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
-weight = 40
-
-[[menu.main]]
-identifier = "archives"
-name = "Archive"
-url = "/archive/"
-weight = 50
-
-[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 60
+weight = 40
